@@ -1,0 +1,4786 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 62.5, 37.5 ]
+    },
+    "properties" : {
+      "titles" : "Massagetai",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59921" ],
+    "titles" : [ "Massagetai" ],
+    "names" : [ "Massagetai" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Massagetae" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.995769971495, 35.219844391733 ]
+    },
+    "properties" : {
+      "titles" : "Creta (island)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/589748" ],
+    "titles" : [ "Creta (island)" ],
+    "names" : [ "Creta", "Κρήτη", "Kríti" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Crete" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.25, 36.75 ]
+    },
+    "properties" : {
+      "titles" : "Pachynos (river)",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/462404" ],
+    "titles" : [ "Pachynos (river)" ],
+    "names" : [ "Pachynos" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Pachynos", "Pachynos", "Pachynos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.184677533333, 38.346688033333 ]
+    },
+    "properties" : {
+      "titles" : "Boeotia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/540689" ],
+    "titles" : [ "Boeotia" ],
+    "names" : [ "Boeotia", "Βοιωτία", "Boiōtía, Boiotia" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Boeotia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 67.5, 37.5 ]
+    },
+    "properties" : {
+      "titles" : "Sogdii M.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/60059" ],
+    "titles" : [ "Sogdii M." ],
+    "names" : [ "Sogdii M." ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sogdia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 54.5, 37.5 ]
+    },
+    "properties" : {
+      "titles" : "Varkana/Hyrcania/Gurgan",
+      "annotations" : 4
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/942333" ],
+    "titles" : [ "Varkana/Hyrcania/Gurgan" ],
+    "names" : [ "varkāna", "Varkana", "Ὑρκανία", "Hyrkanía", "Gurgan" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Hyrcania", "Hyrcanians", "Hyrcanians", "Hyrcanian." ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.75, 38.25 ]
+    },
+    "properties" : {
+      "titles" : "Locris Ozolia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/540919" ],
+    "titles" : [ "Locris Ozolia" ],
+    "names" : [ "Locris Ozolia" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Locrian Zephyrus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.75, 38.75 ]
+    },
+    "properties" : {
+      "titles" : "Abantes",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/540583" ],
+    "titles" : [ "Abantes" ],
+    "names" : [ "Abantes" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Abantes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.5, 37.5 ]
+    },
+    "properties" : {
+      "titles" : "Ionium Mare",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/1046" ],
+    "titles" : [ "Ionium Mare" ],
+    "names" : [ "Ionium Mare" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ionian", "Ionian", "Ionian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.75, 41.25 ]
+    },
+    "properties" : {
+      "titles" : "Samnites",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/442765" ],
+    "titles" : [ "Samnites" ],
+    "names" : [ "Samnites" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Samnites" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 57.07879, 30.28321 ]
+    },
+    "properties" : {
+      "titles" : "Kerman",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/128234" ],
+    "titles" : [ "Kerman" ],
+    "names" : [ "Carmana", "Kirman", "Kermán", "Kerman", "Kerman", "Kerman", "کرمان", "ケルマーン", "Kerman", "Керман", "Kerman", "كرمان", "कर्मान", "克尔曼" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Carmanian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 44.5, 31.5 ]
+    },
+    "properties" : {
+      "titles" : "Euphrates (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/912849" ],
+    "titles" : [ "Euphrates (river)" ],
+    "names" : [ "Εὐφράτης", "Euphrates", "Arahtu", "Buranun", "Purattu", "al-Furāt, al-Furat, el-Furat, al-Forat, el-Forat, Furat, Forat", "Puranade", "Purattu", "Firat", "al Furāt, al Furat, el Furat, el Furāt", "al-Furat", "Firat Nehri", "Euphrates", "Omma", "Nahr al-Furāt, Nahr al-Furat, Nahr el-Furat, Nahr el-Furāt", "Fırat, Firat", "Fırat Nehri, Firat Nehri", "Euphrat", "Euphratēs, Euphrates", "Mala", "Eprat", "Purattum", "Gattu" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Euphrates", "Euphrates" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.268194, 37.397274 ]
+    },
+    "properties" : {
+      "titles" : "Sanctuary of Apollo on Delos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/599506" ],
+    "titles" : [ "Sanctuary of Apollo on Delos" ],
+    "names" : [ "Apollo, T." ],
+    "place_types" : [ "sanctuary" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Delos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.820526, 33.743523 ]
+    },
+    "properties" : {
+      "titles" : "Taxila",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/60083" ],
+    "titles" : [ "Taxila" ],
+    "names" : [ "Τάξιλα", "Taxila", "Taxilae" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Toxiloi" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.638889, 40.198056 ]
+    },
+    "properties" : {
+      "titles" : "Ceraunii M.",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/481785" ],
+    "titles" : [ "Ceraunii M." ],
+    "names" : [ "Ceraunii M." ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ceraunian", "Ceraunian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.5302283, 40.5009431 ]
+    },
+    "properties" : {
+      "titles" : "Samothrace (island)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/501597" ],
+    "titles" : [ "Samothrace (island)" ],
+    "names" : [ "Samothrace", "Samothrace" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Samothrace" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.573661, 41.573247 ]
+    },
+    "properties" : {
+      "titles" : "Apsaros/Apsyrtos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857032" ],
+    "titles" : [ "Apsaros/Apsyrtos" ],
+    "names" : [ "Apsaros", "Apsyrtos", "Absarus", "Apsoros", "Valentia" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Apsyrtus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.07355, 39.94467 ]
+    },
+    "properties" : {
+      "titles" : "Meana Sardo",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/2524197" ],
+    "titles" : [ "Meana Sardo" ],
+    "names" : [ "Meana Sardo", "Meana Sardo", "Meana Sardo", "Meana Sardo", "Meana Sardo" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Sardo" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.647293, 45.16291 ]
+    },
+    "properties" : {
+      "titles" : "Danuvius/Istros/Hister (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/226577" ],
+    "titles" : [ "Danuvius/Istros/Hister (river)" ],
+    "names" : [ "Danuvius", "Istros", "Hister", "Danube" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ister", "Ister" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.054731855281, 41.664198153878 ]
+    },
+    "properties" : {
+      "titles" : "Tyrrhenum/Inferum Mare",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/1356" ],
+    "titles" : [ "Tyrrhenum/Inferum Mare" ],
+    "names" : [ "Tyrrhenum mare", "Inferum Mare" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Tyrrhenians", "Tyrrhenian Sea", "Tyrrhenian Sea" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.5, 46.5 ]
+    },
+    "properties" : {
+      "titles" : "Maeotis",
+      "annotations" : 5
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/825318" ],
+    "titles" : [ "Maeotis" ],
+    "names" : [ "Maeotis", "Temarunda" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Maeotian Lake", "Maeotia’s lake", "Lake Maeotis", "Lake Maeotis", "Maeotis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.5, 45.5 ]
+    },
+    "properties" : {
+      "titles" : "Bastarnae",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/216728" ],
+    "titles" : [ "Bastarnae" ],
+    "names" : [ "Bastarnae" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Bastarnae" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.102561, 39.423219 ]
+    },
+    "properties" : {
+      "titles" : "Asterion/Peirasia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/540674" ],
+    "titles" : [ "Asterion/Peirasia" ],
+    "names" : [ "Asterion", "Peirasia" ],
+    "place_types" : [ "fort" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Asterios" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 39.228819, 38.52585 ]
+    },
+    "properties" : {
+      "titles" : "Colchis",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/874432" ],
+    "titles" : [ "Colchis" ],
+    "names" : [ "Colchis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Colchis", "Colchis", "Colchis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.75, 37.25 ]
+    },
+    "properties" : {
+      "titles" : "Messenia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570480" ],
+    "titles" : [ "Messenia" ],
+    "names" : [ "Messenia" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Mesenian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.602, 38.464 ]
+    },
+    "properties" : {
+      "titles" : "Chalcis",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/540703" ],
+    "titles" : [ "Chalcis" ],
+    "names" : [ "Chalcis", "Χαλκίς", "Chalkís, Chalkis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Chalcis", "Chalcis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.966111, 45.276944 ]
+    },
+    "properties" : {
+      "titles" : "Phanagor(e)ia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/854724" ],
+    "titles" : [ "Phanagor(e)ia" ],
+    "names" : [ "Φαναγόρεια", "Phanagoreia", "Phanagoria", "Agrippia", "Phanagoreion", "Phanagorou polis", "Phanagouris" ],
+    "place_types" : [ "settlement", "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Phaenagore" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.5, 40.5 ]
+    },
+    "properties" : {
+      "titles" : "Pontus",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857287" ],
+    "titles" : [ "Pontus" ],
+    "names" : [ "Pontus", "Pontus Kappadokikos" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Pontus’ mouth" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.5, 42.5 ]
+    },
+    "properties" : {
+      "titles" : "Mysia I",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/1001904" ],
+    "titles" : [ "Mysia I" ],
+    "names" : [ "Mysia I" ],
+    "place_types" : [ "province" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Mysi" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 34.154167, 36.465278 ]
+    },
+    "properties" : {
+      "titles" : "Corycus",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/648612" ],
+    "titles" : [ "Corycus" ],
+    "names" : [ "Corycus" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Corycus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.25, 39.916667 ]
+    },
+    "properties" : {
+      "titles" : "Lemnos (island)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/550693" ],
+    "titles" : [ "Lemnos (island)" ],
+    "names" : [ "Lemnos" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Lemnos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 63.5889496, 45.7077742 ]
+    },
+    "properties" : {
+      "titles" : "Iaxartes/Silis/Tanais (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59844" ],
+    "titles" : [ "Iaxartes/Silis/Tanais (river)" ],
+    "names" : [ "Iaxartes", "Silis", "Tanais", "Araxes", "Laxates", "Orexartes", "Oxyartes" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Iaxartes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.9999997, 43.5000002 ]
+    },
+    "properties" : {
+      "titles" : "Ligusticum Mare",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/157878" ],
+    "titles" : [ "Ligusticum Mare" ],
+    "names" : [ "Ligusticum Mare" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ligurian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.8490205, 38.0183985 ]
+    },
+    "properties" : {
+      "titles" : "Pallene",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/580051" ],
+    "titles" : [ "Pallene" ],
+    "names" : [ "Pallene", "Χαρβάτι", "Charvati" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Pallene" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.5, 47.5 ]
+    },
+    "properties" : {
+      "titles" : "Agathyrsoi",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/226511" ],
+    "titles" : [ "Agathyrsoi" ],
+    "names" : [ "Ἀγάθυρσοι", "Agathyrsoi" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Agathyrsi", "Agathyrsi" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.22199, 36.43556 ]
+    },
+    "properties" : {
+      "titles" : "Ródos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/400666" ],
+    "titles" : [ "Ródos" ],
+    "names" : [ "Ródhos", "Rhodos", "Rhodes", "Родос", "Rhodes", "Rodas", "Rodi", "Rodes", "Ρόδος", "Ródos", "Rhodes Town" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Rhodes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.91728, 42.7168715 ]
+    },
+    "properties" : {
+      "titles" : "Haemus M.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/216830" ],
+    "titles" : [ "Haemus M." ],
+    "names" : [ "Haemus M.", "Stara planina" ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Haemus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.101929, 38.3233025 ]
+    },
+    "properties" : {
+      "titles" : "Tmolus M.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/550937" ],
+    "titles" : [ "Tmolus M." ],
+    "names" : [ "Tmolus M." ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Tmolus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.0497905, 39.8278355 ]
+    },
+    "properties" : {
+      "titles" : "Tenedos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/550911" ],
+    "titles" : [ "Tenedos" ],
+    "names" : [ "Tenedos" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Tenedos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4843457, 41.89262 ]
+    },
+    "properties" : {
+      "titles" : "Roma",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/423025" ],
+    "titles" : [ "Roma" ],
+    "names" : [ "Roma", "Roma, Rōma", "Rome", "Rome", "Ῥώμῃ", "Rhome, Rhṓmē, Rome" ],
+    "place_types" : [ "urban", "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Rome", "Rome" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.98632, 41.18916 ]
+    },
+    "properties" : {
+      "titles" : "Mariandynus Sinus",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/845014" ],
+    "titles" : [ "Mariandynus Sinus" ],
+    "names" : [ "Mariandynus Sinus" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Mariandyni" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.8189911, 38.051998833333 ]
+    },
+    "properties" : {
+      "titles" : "Attica",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/579888" ],
+    "titles" : [ "Attica" ],
+    "names" : [ "Attica", "Ἀττική", "Attikḗ, Attike" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Attic", "Attic" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.4713446, 37.6220196 ]
+    },
+    "properties" : {
+      "titles" : "Maeander (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/599777" ],
+    "titles" : [ "Maeander (river)" ],
+    "names" : [ "Maeander" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Maeander" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -5.25, 34.75 ]
+    },
+    "properties" : {
+      "titles" : "Maurusii",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/275674" ],
+    "titles" : [ "Maurusii" ],
+    "names" : [ "Maurusii", "Mauri", "Maurensioi" ],
+    "place_types" : [ "region", "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Maurusian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -0.10652, 51.46593 ]
+    },
+    "properties" : {
+      "titles" : "Brixton",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/6690877" ],
+    "titles" : [ "Brixton" ],
+    "names" : [ "布里克斯頓", "Брикстон", "ブリクストン" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Britons" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.4, 40.2 ]
+    },
+    "properties" : {
+      "titles" : "Hellespontus",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/501434" ],
+    "titles" : [ "Hellespontus" ],
+    "names" : [ "Hellespontus", "Heptastadion" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Hellespont’s" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.5, 44.5 ]
+    },
+    "properties" : {
+      "titles" : "Toretai",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/825406" ],
+    "titles" : [ "Toretai" ],
+    "names" : [ "Toretai" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Toretae" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.882962823585, 37.422456287736 ]
+    },
+    "properties" : {
+      "titles" : "Aegaeum Mare",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/560221" ],
+    "titles" : [ "Aegaeum Mare" ],
+    "names" : [ "Aegaeum mare", "Aegaeum Mare", "Aegean Sea", "Aegean Sea", "τὸ Αἰγαῖον πέλαγος", "to Aigaion pelagos", "Aegaeum pelagus", "Aegaeum pelagus" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Aegean Sea", "Aegean", "Aegean Sea" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.7069276, 40.3794323 ]
+    },
+    "properties" : {
+      "titles" : "Amantia Stadium",
+      "annotations" : 1
+    },
+    "uris" : [ "http://dare.ht.lu.se/places/43014" ],
+    "titles" : [ "Amantia Stadium" ],
+    "names" : [ "Amantia Stadium" ],
+    "source_gazetteers" : [ "dare-20180219" ],
+    "quotes" : [ "Abantian Maoris" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 82.5, 37.5 ]
+    },
+    "properties" : {
+      "titles" : "Emodon/Kasia (mountain)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59804" ],
+    "titles" : [ "Emodon/Kasia (mountain)" ],
+    "names" : [ "Emodon", "Kasia M." ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Emodon", "Emodon" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.97822, 36.26229 ]
+    },
+    "properties" : {
+      "titles" : "Kythera",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570400" ],
+    "titles" : [ "Kythera" ],
+    "names" : [ "Kythera" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Cythera" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 34.119907, 44.942408 ]
+    },
+    "properties" : {
+      "titles" : "Neapolis",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/226695" ],
+    "titles" : [ "Neapolis" ],
+    "names" : [ "Neapolis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Scythian", "Scythian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.5, 23.5 ]
+    },
+    "properties" : {
+      "titles" : "Blemmyes",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/795790" ],
+    "titles" : [ "Blemmyes" ],
+    "names" : [ "Blemmyes" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Blemmyes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.298333, 37.66 ]
+    },
+    "properties" : {
+      "titles" : "Priene/‘Lince’?",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/599905" ],
+    "titles" : [ "Priene/‘Lince’?" ],
+    "names" : [ "Priene", "Lince" ],
+    "place_types" : [ "settlement", "temple-2", "theatre" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Priene" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.2110153, 31.7348058 ]
+    },
+    "properties" : {
+      "titles" : "Mar Elias, Jerusalem",
+      "annotations" : 1
+    },
+    "uris" : [ "http://dare.ht.lu.se/places/21029" ],
+    "titles" : [ "Mar Elias, Jerusalem" ],
+    "names" : [ "Mar Elias, Jerusalem" ],
+    "source_gazetteers" : [ "dare-20180219" ],
+    "quotes" : [ "Elais" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.12709, 43.28195 ]
+    },
+    "properties" : {
+      "titles" : "Thracian mound, Madara",
+      "annotations" : 1
+    },
+    "uris" : [ "http://dare.ht.lu.se/places/43017" ],
+    "titles" : [ "Thracian mound, Madara" ],
+    "names" : [ "Thracian mound, Madara" ],
+    "source_gazetteers" : [ "dare-20180219" ],
+    "quotes" : [ "Thracians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.127222, 37.229444 ]
+    },
+    "properties" : {
+      "titles" : "Selge",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/639100" ],
+    "titles" : [ "Selge" ],
+    "names" : [ "Σέλγη", "Selge", "Selgeis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Selge" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.5, 48.5 ]
+    },
+    "properties" : {
+      "titles" : "Alamanni",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/118550" ],
+    "titles" : [ "Alamanni" ],
+    "names" : [ "Alamanni" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Germans" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.25, 38.25 ]
+    },
+    "properties" : {
+      "titles" : "*Asia",
+      "annotations" : 12
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/599527" ],
+    "titles" : [ "*Asia" ],
+    "names" : [ "Asia" ],
+    "place_types" : [ "labeled feature" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Asia", "Asia", "Asia", "Asia", "Asia", "Asia", "Asia", "Asia", "Asia", "Asia", "Asia", "Asia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.5, 32.5 ]
+    },
+    "properties" : {
+      "titles" : "Asby(s)tai",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/373738" ],
+    "titles" : [ "Asby(s)tai" ],
+    "names" : [ "Asbystai", "Asbytai" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Asbystai" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.20525, 39.02925 ]
+    },
+    "properties" : {
+      "titles" : "Lacinium (promontory)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/452356" ],
+    "titles" : [ "Lacinium (promontory)" ],
+    "names" : [ "Promunturium Lacinium", "Promunturium Lacinium" ],
+    "place_types" : [ "cape" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Lacinian Hera" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.1067111, 38.3388321 ]
+    },
+    "properties" : {
+      "titles" : "Achelous (river)",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/530768" ],
+    "titles" : [ "Achelous (river)" ],
+    "names" : [ "Achelous", "Thoas" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Achelous", "Achelous", "Achelous" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.9602226, 37.9510881 ]
+    },
+    "properties" : {
+      "titles" : "Corinth Canal",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/131418574" ],
+    "titles" : [ "Corinth Canal" ],
+    "names" : [ "Διώρυγα Κορίνθου", "Dioriga Korinthou" ],
+    "place_types" : [ "canal" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Isthmus", "Isthmus", "Isthmus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.04308, 38.14357 ]
+    },
+    "properties" : {
+      "titles" : "Tyndaris",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/462527" ],
+    "titles" : [ "Tyndaris" ],
+    "names" : [ "Tyndaris", "Tindari", "Tindari", "Τυνδαρίς", "Tyndaris", "Tindaride", "Tindaride", "Tindareo", "Tindareo", "Tyndareon", "Tyndareon", "Tyndareum", "Tyndareum" ],
+    "place_types" : [ "settlement", "settlement-modern" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Tyndarids" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 78.88752, 20.80509 ]
+    },
+    "properties" : {
+      "titles" : "Sindi",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/1256206" ],
+    "titles" : [ "Sindi" ],
+    "names" : [ "Sindi" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Sindi" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.220059, 41.22441 ]
+    },
+    "properties" : {
+      "titles" : "Rhebas",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/521134" ],
+    "titles" : [ "Rhebas" ],
+    "names" : [ "Rhebas" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Rhebas", "Rhebas", "Rhebas" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.91059, 37.74809 ]
+    },
+    "properties" : {
+      "titles" : "Saronída",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/7324476" ],
+    "titles" : [ "Saronída" ],
+    "names" : [ "Saronís", "Σαρωνίς", "Saronída", "Σαρωνίδα", "Saronida", "Γκιουρντάς" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Saronian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.538294, 38.796511 ]
+    },
+    "properties" : {
+      "titles" : "Thermopylae",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/541140" ],
+    "titles" : [ "Thermopylae" ],
+    "names" : [ "Thermopylae", "Θερμοπύλαι", "Thermopýlai" ],
+    "place_types" : [ "fort", "pass" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Thermopylae" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.75, 37.75 ]
+    },
+    "properties" : {
+      "titles" : "Erymanthos (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570237" ],
+    "titles" : [ "Erymanthos (river)" ],
+    "names" : [ "Ἐρύμανθος", "Erymanthos" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Erymanthus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.3957984, 37.9391027 ]
+    },
+    "properties" : {
+      "titles" : "Kyllene (mountain)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570391" ],
+    "titles" : [ "Kyllene (mountain)" ],
+    "names" : [ "Κυλλήνη", "Kyllene" ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Cyllene" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.25, 33.25 ]
+    },
+    "properties" : {
+      "titles" : "Phoenice",
+      "annotations" : 4
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/678334" ],
+    "titles" : [ "Phoenice" ],
+    "names" : [ "Φοινίκη", "Phoenice" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Phoenician", "Phoenicians", "Phoenicia", "Phoenician" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.274701441316, 37.528217249849 ]
+    },
+    "properties" : {
+      "titles" : "Miletus Stadium",
+      "annotations" : 2
+    },
+    "uris" : [ "http://dare.ht.lu.se/places/24450" ],
+    "titles" : [ "Miletus Stadium" ],
+    "names" : [ "Miletus Stadium" ],
+    "source_gazetteers" : [ "dare-20180219" ],
+    "quotes" : [ "Miletus", "Miletus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -7.5, 42.5 ]
+    },
+    "properties" : {
+      "titles" : "Hispania",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/1027" ],
+    "titles" : [ "Hispania" ],
+    "names" : [ "Hispania" ],
+    "place_types" : [ "province" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Iberes", "Iberes", "Iberes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.92178, 39.60733 ]
+    },
+    "properties" : {
+      "titles" : "Corcyra",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/530834" ],
+    "titles" : [ "Corcyra" ],
+    "names" : [ "Corcyra", "Corfu", "Corfu", "Κέρκυρα", "Kérkyra, Kerkyra" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Corcyra" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.5, 40.5 ]
+    },
+    "properties" : {
+      "titles" : "Tibareni",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857356" ],
+    "titles" : [ "Tibareni" ],
+    "names" : [ "Tibareni", "Τιβαρηνοί", "Tibarēnoí" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Tibareni" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 44.5, 44.5 ]
+    },
+    "properties" : {
+      "titles" : "Alanoi",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/834278" ],
+    "titles" : [ "Alanoi" ],
+    "names" : [ "Alanoi" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Alani" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.130369, 45.302992 ]
+    },
+    "properties" : {
+      "titles" : "*Sauromateion",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/854732" ],
+    "titles" : [ "*Sauromateion" ],
+    "names" : [ "Sauromateion" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sauromatian", "Sauromatian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 80, 10 ]
+    },
+    "properties" : {
+      "titles" : "Taprobane/Palaisimoundou/Salike (island)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/50298" ],
+    "titles" : [ "Taprobane/Palaisimoundou/Salike (island)" ],
+    "names" : [ "Taprobane", "Palaisimoundou", "Salike", "Silenfantine", "Simoundou" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Taprobane" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -6.294444, 36.528381 ]
+    },
+    "properties" : {
+      "titles" : "Gadeira/Gades/Col. Augusta Gaditana",
+      "annotations" : 5
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/256177" ],
+    "titles" : [ "Gadeira/Gades/Col. Augusta Gaditana" ],
+    "names" : [ "Gadeira", "Gades", "Col. Augusta Gaditana", "Urbs Iulia Gaditana", "Cadiz", "Cadiz" ],
+    "place_types" : [ "settlement", "arch", "theatre", "townhouse" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Gadir", "Gadeira", "Gades", "Gadeira", "Gadir" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -6.4119, 36.93672 ]
+    },
+    "properties" : {
+      "titles" : "Tartessos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/256468" ],
+    "titles" : [ "Tartessos" ],
+    "names" : [ "Tartessos", "Tartessii" ],
+    "place_types" : [ "unlocated", "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Tartessus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 40.7291755, 47.5437096 ]
+    },
+    "properties" : {
+      "titles" : "Tanais (river)",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/825398" ],
+    "titles" : [ "Tanais (river)" ],
+    "names" : [ "Tanais" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Tanais", "Tanais", "Tanais" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.92572, 44.64582 ]
+    },
+    "properties" : {
+      "titles" : "Modena (Italy)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://geo-kima.org/place/153" ],
+    "titles" : [ "Modena (Italy)" ],
+    "names" : [ "Modène", "מודינא" ],
+    "source_gazetteers" : [ "http://geo-kima.org" ],
+    "quotes" : [ "Italy" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.1160444, 39.0096225 ]
+    },
+    "properties" : {
+      "titles" : "Aisaros (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/452258" ],
+    "titles" : [ "Aisaros (river)" ],
+    "names" : [ "Aisaros" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Aisaros" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7621, 41.7909 ]
+    },
+    "properties" : {
+      "titles" : "Latium",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/432900" ],
+    "titles" : [ "Latium" ],
+    "names" : [ "Latium" ],
+    "place_types" : [ "region", "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Latins" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4641, 41.901 ]
+    },
+    "properties" : {
+      "titles" : "Pons Neronianus",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/100447491" ],
+    "titles" : [ "Pons Neronianus" ],
+    "place_types" : [ "bridge" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Tiber", "Tiber", "Tiber" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.85852, 39.69936 ]
+    },
+    "properties" : {
+      "titles" : "Ida M.",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/550592" ],
+    "titles" : [ "Ida M." ],
+    "names" : [ "Ida M." ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ida", "Ida", "Ida" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.859558, 33.874783 ]
+    },
+    "properties" : {
+      "titles" : "Meninx/Lotophagitis/Girba Ins.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/344440" ],
+    "titles" : [ "Meninx/Lotophagitis/Girba Ins." ],
+    "names" : [ "Meninx", "Lotophagitis", "Girba", "Uchium" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Meninx" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.5, 44.5 ]
+    },
+    "properties" : {
+      "titles" : "Scythia Minor",
+      "annotations" : 4
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/216976" ],
+    "titles" : [ "Scythia Minor" ],
+    "names" : [ "Scythia Minor" ],
+    "place_types" : [ "labeled feature" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Scythians", "Scythians", "Scythians", "Scythians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 44.291164, 40.161769 ]
+    },
+    "properties" : {
+      "titles" : "Etchmiadzin Cathedral",
+      "annotations" : 5
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/327730568" ],
+    "titles" : [ "Etchmiadzin Cathedral" ],
+    "names" : [ "Էջմիածնի Մայր Տաճար", "Ejmiatsni Mayr Tacar" ],
+    "place_types" : [ "church" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Armenian", "Armenian", "Armenian", "Armenian", "Armenians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.25, 33.75 ]
+    },
+    "properties" : {
+      "titles" : "Bostrenos/‘Asclepeus’ (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/678074" ],
+    "titles" : [ "Bostrenos/‘Asclepeus’ (river)" ],
+    "names" : [ "Bostrenos", "Asclepeus" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Bostrenus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.610556, 25.720556 ]
+    },
+    "properties" : {
+      "titles" : "Memnon Colossi",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/786066" ],
+    "titles" : [ "Memnon Colossi" ],
+    "place_types" : [ "monument" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Memnon" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.58952, 36.80247 ]
+    },
+    "properties" : {
+      "titles" : "Lyrnateia? (island)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/638972" ],
+    "titles" : [ "Lyrnateia? (island)" ],
+    "names" : [ "Lyrnateia", "Lyrnas", "Lyrnessos" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Lyrnessus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.5, 31.5 ]
+    },
+    "properties" : {
+      "titles" : "Marmaridai",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/716596" ],
+    "titles" : [ "Marmaridai" ],
+    "names" : [ "Marmaridai" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Marmaridae" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.49357, 38.47942 ]
+    },
+    "properties" : {
+      "titles" : "Delphi",
+      "annotations" : 2
+    },
+    "uris" : [ "http://sws.geonames.org/263219" ],
+    "titles" : [ "Delphi" ],
+    "names" : [ "Delfos", "Delphi", "Delphi", "Δελφοί", "Delphes", "Delfi", "デルポイ", "Delfos", "Дельфы", "德尔菲", "德尔斐", "Dhelfoí", "Delfoí" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Delphyne", "Pytho" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.77628, 46.3536 ]
+    },
+    "properties" : {
+      "titles" : "Deleni",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/679527" ],
+    "titles" : [ "Deleni" ],
+    "names" : [ "Delen", "Deleni" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Geloni" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.6507, 38.26816 ]
+    },
+    "properties" : {
+      "titles" : "Pelorus/Regium Pr.",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/462416" ],
+    "titles" : [ "Pelorus/Regium Pr." ],
+    "names" : [ "Pelorus", "Regium Pr." ],
+    "place_types" : [ "cape" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Peloris", "Peloris" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.6489, 41.1264 ]
+    },
+    "properties" : {
+      "titles" : "Sangarius (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/511406" ],
+    "titles" : [ "Sangarius (river)" ],
+    "names" : [ "Sangarius", "Šaḫirija, Shakhiriya, Šaḫiriya", "Sakarya", "Sakarya Nehri", "Sangarios", "Σαγγάριος", "Sangários" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sangarius" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.139512376923, 37.041546415385 ]
+    },
+    "properties" : {
+      "titles" : "Cyclades Islands",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/560353" ],
+    "titles" : [ "Cyclades Islands" ],
+    "names" : [ "Cyclades" ],
+    "place_types" : [ "archipelago", "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Cyclades" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.75, 37.25 ]
+    },
+    "properties" : {
+      "titles" : "Pisidia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/639060" ],
+    "titles" : [ "Pisidia" ],
+    "names" : [ "Pisidia" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Pisidia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.25, 40.25 ]
+    },
+    "properties" : {
+      "titles" : "Bithynia (region)",
+      "annotations" : 4
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/511189" ],
+    "titles" : [ "Bithynia (region)" ],
+    "names" : [ "Bithynia" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Pontus", "Pontus", "Pontus", "Bithynians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.25, 39.25 ]
+    },
+    "properties" : {
+      "titles" : "Athamania",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/540676" ],
+    "titles" : [ "Athamania" ],
+    "names" : [ "Athamania" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Athamantian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.25, 39.75 ]
+    },
+    "properties" : {
+      "titles" : "Mysia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/550759" ],
+    "titles" : [ "Mysia" ],
+    "names" : [ "Mysia" ],
+    "place_types" : [ "labeled feature" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Mysia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.9632845, 38.62477125 ]
+    },
+    "properties" : {
+      "titles" : "Lydia/Maionia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/550701" ],
+    "titles" : [ "Lydia/Maionia" ],
+    "names" : [ "Lydia", "Maionia" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Lydians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.25, 31.25 ]
+    },
+    "properties" : {
+      "titles" : "Serbonitis L.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/688025" ],
+    "titles" : [ "Serbonitis L." ],
+    "names" : [ "Serbonitis L." ],
+    "place_types" : [ "lake" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Serbonis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.1815439, 37.1968531 ]
+    },
+    "properties" : {
+      "titles" : "Eurymedon (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/638836" ],
+    "titles" : [ "Eurymedon (river)" ],
+    "names" : [ "Eurymedon" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Eurymedon" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.5, 32.5 ]
+    },
+    "properties" : {
+      "titles" : "Hydaspes/Bidaspes (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59837" ],
+    "titles" : [ "Hydaspes/Bidaspes (river)" ],
+    "names" : [ "Ὑδάσπης", "Hydaspes", "Βιδάσπης", "Bidaspes", "Idaspes" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Hydaspes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.096836, 49.866826 ]
+    },
+    "properties" : {
+      "titles" : "Hypanis (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/825273" ],
+    "titles" : [ "Hypanis (river)" ],
+    "names" : [ "Hypanis" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Hypanis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 39.5, 40.5 ]
+    },
+    "properties" : {
+      "titles" : "Makrones/Machelones",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857224" ],
+    "titles" : [ "Makrones/Machelones" ],
+    "names" : [ "Makrones", "Machelones" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Macrones" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.5, 41.5 ]
+    },
+    "properties" : {
+      "titles" : "Chalybes",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857083" ],
+    "titles" : [ "Chalybes" ],
+    "names" : [ "Chalybes", "Χάλυβες", "Chálybes" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Chalybes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.25, 41.25 ]
+    },
+    "properties" : {
+      "titles" : "Bebrykes",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/511183" ],
+    "titles" : [ "Bebrykes" ],
+    "names" : [ "Bebrykes" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Bebryces" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.9689188, 43.4932638 ]
+    },
+    "properties" : {
+      "titles" : "Hyllis Pr.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/197309" ],
+    "titles" : [ "Hyllis Pr." ],
+    "names" : [ "Hyllis Pr." ],
+    "place_types" : [ "cape" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Hylleis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 39.648355, 40.543937 ]
+    },
+    "properties" : {
+      "titles" : "Patara",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857264" ],
+    "titles" : [ "Patara" ],
+    "names" : [ "Patara" ],
+    "place_types" : [ "station" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Patara" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.501176, 33.897902 ]
+    },
+    "properties" : {
+      "titles" : "Berytus/Laodikeia en te Phoinike/Col. Iulia Augusta Felix",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/678060" ],
+    "titles" : [ "Berytus/Laodikeia en te Phoinike/Col. Iulia Augusta Felix" ],
+    "names" : [ "Berytus", "Laodikeia en te Phoinike", "Col. Iulia Augusta Felix", "Lattaquié", "Beirut", "Beirut", "Bēt Lāpaṭ", "Bēt Lāpāṭ, Bet Lapat, Bet Lapath", "Col. Iul. Aug. Fel. B., Col. Jul. Aug. Fel. B.", "Biruta", "Berot", "Barut", "Baruth", "Bērūt, Berut", "Bērytos, Berytos", "Berytos", "Bairūt, Bairut, Bayrut, Beyrut", "Laodikeia, Laodicea", "Colonia Julia Augusta B., Colonia Iulia Augusta B.", "Beirut", "Beirut", "Colonia Jul. Aug. Fel. B., Colonia Iul. Aug. Fel. B." ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Berytus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 50.9999999, 27.0000001 ]
+    },
+    "properties" : {
+      "titles" : "Persicus Sinus/Erythr(ae)um Mare",
+      "annotations" : 5
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/29713" ],
+    "titles" : [ "Persicus Sinus/Erythr(ae)um Mare" ],
+    "names" : [ "Persicus Sinus", "Erythraeum Mare", "Erythrum Mare", "Tamtu Shaplitu", "Persian Gulf", "Persian Gulf" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Persian Gulf", "Persian Gulf", "Arabian Gulf", "Persian Gulf", "Arabian Gulfs" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 59.51875, 36.48644 ]
+    },
+    "properties" : {
+      "titles" : "Tusa/Sousia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/952108" ],
+    "titles" : [ "Tusa/Sousia" ],
+    "names" : [ "Tusa", "Sousia" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sousian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.325278, 41.128611 ]
+    },
+    "properties" : {
+      "titles" : "*Porsulae/Maximianopolis",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/501574" ],
+    "titles" : [ "*Porsulae/Maximianopolis" ],
+    "names" : [ "Porsulae", "Maximianopolis", "Corsulae" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Thrace" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.238550216667, 41.448462966667 ]
+    },
+    "properties" : {
+      "titles" : "Paphlagonia (region)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/845034" ],
+    "titles" : [ "Paphlagonia (region)" ],
+    "names" : [ "Paphlagonia" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Paphlagonians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.5, 46.5 ]
+    },
+    "properties" : {
+      "titles" : "Sarmatae",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/226752" ],
+    "titles" : [ "Sarmatae" ],
+    "names" : [ "Sarmatae" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sarmatae" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 34.91, 36.72 ]
+    },
+    "properties" : {
+      "titles" : "Cydnus (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/648615" ],
+    "titles" : [ "Cydnus (river)" ],
+    "names" : [ "Cydnus" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Cydnus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.75, 41.25 ]
+    },
+    "properties" : {
+      "titles" : "Macedonia",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/491656" ],
+    "titles" : [ "Macedonia" ],
+    "names" : [ "Macedonia" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Macedonian", "Macedonian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 45.5, 38.5 ]
+    },
+    "properties" : {
+      "titles" : "Media Atropatene",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/874597" ],
+    "titles" : [ "Media Atropatene" ],
+    "names" : [ "Media Atropatene", "Media Minor" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Atropatenes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18, 31.5 ]
+    },
+    "properties" : {
+      "titles" : "Syrtis Maior",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/344491" ],
+    "titles" : [ "Syrtis Maior" ],
+    "names" : [ "Syrtis Maior" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Syrtis", "Syrtis", "Syrtis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.061872, 44.722863 ]
+    },
+    "properties" : {
+      "titles" : "Cius",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/216770" ],
+    "titles" : [ "Cius" ],
+    "names" : [ "Cius" ],
+    "place_types" : [ "port", "fort" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Cius" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.37564, 33.55993 ]
+    },
+    "properties" : {
+      "titles" : "Sidon",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/268064" ],
+    "titles" : [ "Sidon" ],
+    "names" : [ "Saïda", "Şaydā", "Sidón", "Sidon", "Sidon", "Sidon", "Sidone", "サイダ", "Sídon", "صيدا", "Σιδώνα", "Сайда", "赛达" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Sidon" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.75, 36.75 ]
+    },
+    "properties" : {
+      "titles" : "Pamphylia",
+      "annotations" : 6
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/639034" ],
+    "titles" : [ "Pamphylia" ],
+    "names" : [ "Pamphylia" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Pamphylian", "Pamphylians", "Pamphylian", "Pamphylia", "Pamphylia", "Pamphylian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.15704, 36.85367 ]
+    },
+    "properties" : {
+      "titles" : "Issus/Nikopolis",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/658490" ],
+    "titles" : [ "Issus/Nikopolis" ],
+    "names" : [ "Issus", "Nikopolis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Issus", "Issus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.0670163, 40.4259096 ]
+    },
+    "properties" : {
+      "titles" : "Parium/Col. Gemella Iulia *Hadriana",
+      "annotations" : 5
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/511354" ],
+    "titles" : [ "Parium/Col. Gemella Iulia *Hadriana" ],
+    "names" : [ "Parium", "Col. Gemella Iulia Hadriana" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Hellespont", "Hellespont", "Hellespont", "Hellespont", "Hellespont" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 3.598898158333, 44.7309821 ]
+    },
+    "properties" : {
+      "titles" : "Gallia",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/993" ],
+    "titles" : [ "Gallia" ],
+    "names" : [ "Gallia", "Galli" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Celts", "Celts" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.5, 32.5 ]
+    },
+    "properties" : {
+      "titles" : "Choaspes (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59773" ],
+    "titles" : [ "Choaspes (river)" ],
+    "names" : [ "Choaspes", "Gouraios", "Garoias", "Parospus" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Choaspes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.717535, 40.78201 ]
+    },
+    "properties" : {
+      "titles" : "Thasos (island)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/501635" ],
+    "titles" : [ "Thasos (island)" ],
+    "names" : [ "Thasos" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Thasos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.33161, 36.86108 ]
+    },
+    "properties" : {
+      "titles" : "Carthage",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/2468245" ],
+    "titles" : [ "Carthage" ],
+    "names" : [ "Qarţājannah", "Карфаген" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Carthage" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.5, -7.5 ]
+    },
+    "properties" : {
+      "titles" : "Bracheia/Prasodes Thalassa",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39315" ],
+    "titles" : [ "Bracheia/Prasodes Thalassa" ],
+    "names" : [ "Bracheia", "πρασώδης θάλασσα", "Prasodes Thalassa" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Indian Ocean" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.0779, 31.2116 ]
+    },
+    "properties" : {
+      "titles" : "Casius Mons",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/687872" ],
+    "titles" : [ "Casius Mons" ],
+    "names" : [ "Casius Mons" ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Casius’ rock" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.5, 51.5 ]
+    },
+    "properties" : {
+      "titles" : "Franci",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/108991" ],
+    "titles" : [ "Franci" ],
+    "names" : [ "Franci" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "German tribes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.986447, 41.029913 ]
+    },
+    "properties" : {
+      "titles" : "Delphin/Karandas",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/523977" ],
+    "titles" : [ "Delphin/Karandas" ],
+    "names" : [ "Delphin", "Karandas" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Bosporus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.824063, 40.383868 ]
+    },
+    "properties" : {
+      "titles" : "Metapontum",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/442658" ],
+    "titles" : [ "Metapontum" ],
+    "names" : [ "Metapontum", "Pantanello", "Pantanello" ],
+    "place_types" : [ "settlement", "theatre" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Metapontines" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.8143, 35.05138 ]
+    },
+    "properties" : {
+      "titles" : "Phaistos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/589987" ],
+    "titles" : [ "Phaistos" ],
+    "names" : [ "Phaistos", "pa-i-to" ],
+    "place_types" : [ "settlement", "architecturalcomplex" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Phaestus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.6222206, 38.5348857 ]
+    },
+    "properties" : {
+      "titles" : "Parnassus Mons, Parnassus",
+      "annotations" : 3
+    },
+    "uris" : [ "http://dare.ht.lu.se/places/41400" ],
+    "titles" : [ "Parnassus Mons, Parnassus" ],
+    "names" : [ "Parnassus", "Parnassus Mons", "Παρνασσός", "Παρνησ(σ)ός" ],
+    "source_gazetteers" : [ "dare-20180219" ],
+    "quotes" : [ "Parnassus", "Parnassus", "Parnassus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.8398, 38.94813 ]
+    },
+    "properties" : {
+      "titles" : "Pelasgía",
+      "annotations" : 2
+    },
+    "uris" : [ "http://sws.geonames.org/255638" ],
+    "titles" : [ "Pelasgía" ],
+    "names" : [ "Gardhíki", "Πελασγία", "Pelasyía", "Pelasgía", "Pelasgia", "Γαρδίκι" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Pelasgian", "Pelasgian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.9295291, 41.6767598 ]
+    },
+    "properties" : {
+      "titles" : "Halys (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857148" ],
+    "titles" : [ "Halys (river)" ],
+    "names" : [ "Halys", "Maraššant(ij)a, Maraššantija, Maraššanta, Marashantiya, Marashanta, Maraššantiya", "Ḳızıl Irmaḳ, Qizil Irmaq, Kizil Irmak", "Kizilirmak", "Halys, Alys", "Nahr Ālis, Nahr Alis", "Kizil Irmak", "Kızılırmak, Kizilirmak, Kızıl Irmak, Kizil Irmak, Kisil Irmak, Kizzel Irmak" ],
+    "place_types" : [ "settlement", "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Halys" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 34.60406, 36.80123 ]
+    },
+    "properties" : {
+      "titles" : "Anchiale(ia)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/648555" ],
+    "titles" : [ "Anchiale(ia)" ],
+    "names" : [ "Anchialeia", "Anchiale" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Anchialeia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.856169, 32.818736 ]
+    },
+    "properties" : {
+      "titles" : "Cyrene",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/373778" ],
+    "titles" : [ "Cyrene" ],
+    "names" : [ "Cyrene", "Cyrene", "Claudiopolis", "Cyrene", "Cyrene" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Cyrene" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.5314735, 37.947768 ]
+    },
+    "properties" : {
+      "titles" : "Salamis",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/580100" ],
+    "titles" : [ "Salamis" ],
+    "names" : [ "Salamis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Salamis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 47.5, 41.5 ]
+    },
+    "properties" : {
+      "titles" : "Albania",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/863731" ],
+    "titles" : [ "Albania" ],
+    "names" : [ "Albania" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Albanians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.5, 45.5 ]
+    },
+    "properties" : {
+      "titles" : "Roxolani",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/216961" ],
+    "titles" : [ "Roxolani" ],
+    "names" : [ "Roxolani" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sarmatians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.38916, 40.21343 ]
+    },
+    "properties" : {
+      "titles" : "Sestos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/501609" ],
+    "titles" : [ "Sestos" ],
+    "names" : [ "Sestos" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sestos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.858333, 34.856111 ]
+    },
+    "properties" : {
+      "titles" : "Arados",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/668197" ],
+    "titles" : [ "Arados" ],
+    "names" : [ "Arados", "אַ‏רְוָ‏ד", "Arwad" ],
+    "place_types" : [ "settlement", "fort" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Arados" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 42.5, 41.5 ]
+    },
+    "properties" : {
+      "titles" : "Heniochi/Coraxici M.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/863800" ],
+    "titles" : [ "Heniochi/Coraxici M." ],
+    "names" : [ "Heniochi", "Coraxici M." ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Heniochi" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.00743968, 37.2529449228 ]
+    },
+    "properties" : {
+      "titles" : "Strophades/Plotai (island group)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/142847211" ],
+    "titles" : [ "Strophades/Plotai (island group)" ],
+    "names" : [ "Strophades", "Strophades", "Στροφάδες", "Strophades", "Πλωταί", "Plotai", "Plotae", "Plotae", "Στροφαδεύς", "Strophadeus" ],
+    "place_types" : [ "archipelago", "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Plotae" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.407, 36.215 ]
+    },
+    "properties" : {
+      "titles" : "Chelidonium Pr./Hiera Akra/Tauri Pr.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/638800" ],
+    "titles" : [ "Chelidonium Pr./Hiera Akra/Tauri Pr." ],
+    "names" : [ "Chelidonium Pr.", "Hiera Akra", "Tauri Pr." ],
+    "place_types" : [ "cape" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Tauri" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.14885, 42.0206 ]
+    },
+    "properties" : {
+      "titles" : "Sinope",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857321" ],
+    "titles" : [ "Sinope" ],
+    "names" : [ "Σινώπη", "Sinope", "Sinopitis", "Sinob", "Sinop", "Sinopē", "Sinōpē, Sinope", "Sinope", "Ṣīnūb, Sinub", "Colonia Iul. Fel. S., Colonia Iulia Felix Sinope, Colonia Julia Felix Sinope" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sinope", "Sinope" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.903047, 40.233058 ]
+    },
+    "properties" : {
+      "titles" : "Imbros (island)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/501439" ],
+    "titles" : [ "Imbros (island)" ],
+    "names" : [ "Ἴμβρος", "Imbros", "Gökçeada", "Gokceda", "İmroz", "Imroz, İmroz" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Imbros", "Imbros" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.575537, 41.288083 ]
+    },
+    "properties" : {
+      "titles" : "Chadisia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857079" ],
+    "titles" : [ "Chadisia" ],
+    "names" : [ "Chadisia" ],
+    "place_types" : [ "station" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Cadusians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 67.5, 27.5 ]
+    },
+    "properties" : {
+      "titles" : "Arabitai",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59691" ],
+    "titles" : [ "Arabitai" ],
+    "names" : [ "Arabitai", "Aribae", "Arbae", "Arbies", "Abritai", "Terabdoi" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Aribae" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 44.42082, 32.53617 ]
+    },
+    "properties" : {
+      "titles" : "Babylon",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/893951" ],
+    "titles" : [ "Babylon" ],
+    "names" : [ "Babylon", "Babylon", "Babil", "Βαβυλών", "Babylon, Babylōn", "Bābili", "Bābilim", "Šuanna", "Eridu", "Ka-dingirra" ],
+    "place_types" : [ "urban", "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Babylon" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.55057, 39.4399 ]
+    },
+    "properties" : {
+      "titles" : "Elea",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/530860" ],
+    "titles" : [ "Elea" ],
+    "names" : [ "Elea" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Elea" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.15, 48.3 ]
+    },
+    "properties" : {
+      "titles" : "Hercynian Forest",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/346732606" ],
+    "titles" : [ "Hercynian Forest" ],
+    "place_types" : [ "unlocated", "forest" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Hercynian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 45.35, 15.416667 ]
+    },
+    "properties" : {
+      "titles" : "Mari(a)ba",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39379" ],
+    "titles" : [ "Mari(a)ba" ],
+    "names" : [ "Mariaba", "Mariba", "Amara", "Mara", "Baraba", "Barmalacum", "Marasdu", "Mareliabata", "Palmalachum", "Palmalacum", "Sabas", "Saba" ],
+    "place_types" : [ "settlement", "dam" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sabae" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.086484645794, 37.536676119522 ]
+    },
+    "properties" : {
+      "titles" : "Sicilia (island)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/462492" ],
+    "titles" : [ "Sicilia (island)" ],
+    "names" : [ "Sicilia", "Sicily", "Sicily", "Trinacria", "Trinacria", "Σικελία", "Sikelía, Sikelia", "Sizilien", "Sizilien" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Thrinacia", "Sicily" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.710774491667, 38.5984593 ]
+    },
+    "properties" : {
+      "titles" : "Sporades (archipelago)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/599944" ],
+    "titles" : [ "Sporades (archipelago)" ],
+    "names" : [ "Sporades", "Sporades" ],
+    "place_types" : [ "archipelago", "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sporades", "Sporades" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiPolygon",
+      "coordinates" : [ [ [ [ 34.25, 31.21 ], [ 34.23, 31.26 ], [ 34.22, 31.28 ], [ 34.2, 31.31 ], [ 34.2, 31.31 ], [ 34.22, 31.33 ], [ 34.24, 31.34 ], [ 34.28, 31.38 ], [ 34.3, 31.41 ], [ 34.35, 31.44 ], [ 34.37, 31.47 ], [ 34.44, 31.53 ], [ 34.48, 31.58 ], [ 34.48, 31.58 ], [ 34.51, 31.56 ], [ 34.53, 31.54 ], [ 34.53, 31.52 ], [ 34.5, 31.49 ], [ 34.5, 31.49 ], [ 34.48, 31.49 ], [ 34.37, 31.39 ], [ 34.35, 31.36 ], [ 34.35, 31.34 ], [ 34.35, 31.31 ], [ 34.35, 31.29 ], [ 34.32, 31.26 ], [ 34.26, 31.22 ], [ 34.25, 31.21 ] ] ] ]
+    },
+    "properties" : {
+      "titles" : "Gaza Strip",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/281132" ],
+    "titles" : [ "Gaza Strip" ],
+    "names" : [ "Qiţā` Ghazzah", "Gazastreifen", "Gaza Strip", "Franja de Gaza", "قطاع غزة", "Bande de Gaza", "Striscia di Gaza", "ガザ地区", "Faixa de Gaza", "Сектор Газа", "加沙地带", "গাজা ভূখণ্ড", "Λωρίδα της Γάζας", "गाज़ा पट्टी", "ਗਾਜ਼ਾ ਪੱਟੀ" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Gaza" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.5, 44.5 ]
+    },
+    "properties" : {
+      "titles" : "Getae",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/216817" ],
+    "titles" : [ "Getae" ],
+    "names" : [ "Getae" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Getae" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.5, 37.5 ]
+    },
+    "properties" : {
+      "titles" : "Phrygia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/981543" ],
+    "titles" : [ "Phrygia" ],
+    "names" : [ "Phrygia" ],
+    "place_types" : [ "province" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Phrygia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 46.5, 36.5 ]
+    },
+    "properties" : {
+      "titles" : "Matiane",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/884179" ],
+    "titles" : [ "Matiane" ],
+    "names" : [ "Matiane", "Mantiane", "Matienoi" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Matieni" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.854274, 36.961406 ]
+    },
+    "properties" : {
+      "titles" : "Perge",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/639048" ],
+    "titles" : [ "Perge" ],
+    "names" : [ "Perge" ],
+    "place_types" : [ "settlement", "stadion", "theatre" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Perge" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.958434, 34.511069 ]
+    },
+    "properties" : {
+      "titles" : "Orthosia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/668325" ],
+    "titles" : [ "Orthosia" ],
+    "names" : [ "Orthosia" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Orthosis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.5, 27.5 ]
+    },
+    "properties" : {
+      "titles" : "Garamantes",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/354116" ],
+    "titles" : [ "Garamantes" ],
+    "names" : [ "Garamantes" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Garamantes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.3334931, 37.1615197 ]
+    },
+    "properties" : {
+      "titles" : "Eurotas (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570248" ],
+    "titles" : [ "Eurotas (river)" ],
+    "names" : [ "amnis Eurotas", "Eurotas", "Ευρώτας", "Eurotas" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Eurotas" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.25, 34.25 ]
+    },
+    "properties" : {
+      "titles" : "Koile Syria/Massyas",
+      "annotations" : 6
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/668288" ],
+    "titles" : [ "Koile Syria/Massyas" ],
+    "names" : [ "Koile Syria", "Massyas", "Marsyas" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Syria", "Syria", "Syria", "Syria", "Syria", "Syria" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 1.5, 40 ]
+    },
+    "properties" : {
+      "titles" : "Baliaricum Mare",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/265818" ],
+    "titles" : [ "Baliaricum Mare" ],
+    "names" : [ "Baliaricum Mare" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Iberian Sea" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -6.27467, 36.50911 ]
+    },
+    "properties" : {
+      "titles" : "Cotinussa (island)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/256138" ],
+    "titles" : [ "Cotinussa (island)" ],
+    "names" : [ "Cotinussa", "Gaditana" ],
+    "place_types" : [ "island", "settlement-modern" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Cotinoussa" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.9424975, 41.1939559 ]
+    },
+    "properties" : {
+      "titles" : "Thermodon (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857352" ],
+    "titles" : [ "Thermodon (river)" ],
+    "names" : [ "Thermodon" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Thermodon", "Thermodon" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.41122, 40.19406 ]
+    },
+    "properties" : {
+      "titles" : "Abydos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/501325" ],
+    "titles" : [ "Abydos" ],
+    "names" : [ "Abydos", "Yapıldak", "Abidūs", "Abide", "Abydos" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Abydos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.25, 41.25 ]
+    },
+    "properties" : {
+      "titles" : "Campania",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/432742" ],
+    "titles" : [ "Campania" ],
+    "names" : [ "Campania" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Campania" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.384586, 38.846248 ]
+    },
+    "properties" : {
+      "titles" : "Erythrai?",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/540773" ],
+    "titles" : [ "Erythrai?" ],
+    "names" : [ "Erythrai" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Erytheia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.5, 44.5 ]
+    },
+    "properties" : {
+      "titles" : "Dalmatia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/197240" ],
+    "titles" : [ "Dalmatia" ],
+    "names" : [ "Dalmatia" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Dalmatia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.25, 29.25 ]
+    },
+    "properties" : {
+      "titles" : "Nabataei",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/746785" ],
+    "titles" : [ "Nabataei" ],
+    "names" : [ "Nabataei" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Nabataeans" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.5, 37.5 ]
+    },
+    "properties" : {
+      "titles" : "Sacae",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/60021" ],
+    "titles" : [ "Sacae" ],
+    "names" : [ "Sacae", "Sacae", "Σάκαι", "Sakai" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sakai" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 50.5, 38.5 ]
+    },
+    "properties" : {
+      "titles" : "Caspium/Hyrcanium Mare",
+      "annotations" : 14
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/884130" ],
+    "titles" : [ "Caspium/Hyrcanium Mare" ],
+    "names" : [ "Caspium", "Hyrcanium Mare" ],
+    "place_types" : [ "water-open", "lake" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Caspian", "Caspian", "Caspian", "Caspian", "Caspian", "Caspian", "Caspian", "Caspian", "Caspian", "Caspian", "Caspian", "Caspian", "Caspian", "Caspian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.312, 35.315 ]
+    },
+    "properties" : {
+      "titles" : "Sam(m)onion Pr.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/590037" ],
+    "titles" : [ "Sam(m)onion Pr." ],
+    "names" : [ "Sammonion Pr.", "Samonion Pr." ],
+    "place_types" : [ "cape" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Salmonian Cape" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.227919, 36.658322 ]
+    },
+    "properties" : {
+      "titles" : "Kilikiai Pylai",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/648670" ],
+    "titles" : [ "Kilikiai Pylai" ],
+    "names" : [ "Kilikiai Pylai", "Cilician Gate", "Cilician Gate", "Gülek Bogazi", "Gülek Bogazi, Gulek Bogazi" ],
+    "place_types" : [ "pass" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Cilician", "Cilician" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.35, 42.016667 ]
+    },
+    "properties" : {
+      "titles" : "Karambis",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/844971" ],
+    "titles" : [ "Karambis" ],
+    "names" : [ "Karambis Pr.", "Kerembe burnu" ],
+    "place_types" : [ "cape" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Carambis", "Carambis", "Carambis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 46.5, 38.5 ]
+    },
+    "properties" : {
+      "titles" : "Araxes (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/884118" ],
+    "titles" : [ "Araxes (river)" ],
+    "names" : [ "Araxes", "Erash" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Araxes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 67.5, 42.5 ]
+    },
+    "properties" : {
+      "titles" : "Tochari/Asioi",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/60087" ],
+    "titles" : [ "Tochari/Asioi" ],
+    "names" : [ "Tochari", "Asioi", "Athagorae", "Tagorae", "Tagouroi" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Tocharians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.283, 37.405 ]
+    },
+    "properties" : {
+      "titles" : "Asea",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570122" ],
+    "titles" : [ "Asea" ],
+    "names" : [ "Asea" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Asea" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 51.44567, 35.60066 ]
+    },
+    "properties" : {
+      "titles" : "Rhaga(i)/Europos/Arsakia/Ray",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/903104" ],
+    "titles" : [ "Rhaga(i)/Europos/Arsakia/Ray" ],
+    "names" : [ "Rhagai", "Rhaga", "Europos", "Arsakia", "Ray", "Raghā, Ragha", "Raiy", "Ragā, Raga", "Rayy", "Rai", "Ray", "Reyy, Rai, Rey, Ray, Rayy, Rei", "Ray", "Arsakia", "Eurōpos, Europos", "Rhagai, Rhagaia", "Rhaga", "ar-Rayy, er-Reyy, al-Rayy, el-Reyy, ar-Raiy, al-Raiy, er-Reiy, el-Reiy" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Medes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.7870309724, 39.545907135257 ]
+    },
+    "properties" : {
+      "titles" : "Dodona Stadium",
+      "annotations" : 2
+    },
+    "uris" : [ "http://dare.ht.lu.se/places/24190" ],
+    "titles" : [ "Dodona Stadium" ],
+    "names" : [ "Dodona Stadium" ],
+    "source_gazetteers" : [ "dare-20180219" ],
+    "quotes" : [ "Dodona", "Dodona" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.719394, 36.440669 ]
+    },
+    "properties" : {
+      "titles" : "Neapolis",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/315093" ],
+    "titles" : [ "Neapolis" ],
+    "names" : [ "Νεάπολις", "Neapolis, Neápolis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Neapolis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 45.86922, 34.46267 ]
+    },
+    "properties" : {
+      "titles" : "[Hulwan]/Valashfarr/Beth Lashpar/Chala/Albania",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/903043" ],
+    "titles" : [ "[Hulwan]/Valashfarr/Beth Lashpar/Chala/Albania" ],
+    "names" : [ "Hulwan", "Valashfarr", "Beth Lashpar", "Chala", "Albania", "Chalonitis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Chalonites" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.793813, 41.114619 ]
+    },
+    "properties" : {
+      "titles" : "Lychnidos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/481900" ],
+    "titles" : [ "Lychnidos" ],
+    "names" : [ "Lychnidos", "Λυχνιδός", "Lychnidós" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "lychnis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.4, 44.95 ]
+    },
+    "properties" : {
+      "titles" : "Apsyrtides (islands)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/197124" ],
+    "titles" : [ "Apsyrtides (islands)" ],
+    "names" : [ "Apsyrtides", "Crepsi" ],
+    "place_types" : [ "archipelago", "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Liburnian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.8125385, 35.1406719 ]
+    },
+    "properties" : {
+      "titles" : "Soloi/Pompeiopolis",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/648781" ],
+    "titles" : [ "Soloi/Pompeiopolis" ],
+    "names" : [ "Soloi", "Pompeiopolis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Soloi" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.25, 36.75 ]
+    },
+    "properties" : {
+      "titles" : "Lycia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/638965" ],
+    "titles" : [ "Lycia" ],
+    "names" : [ "Lycia" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Lycians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.23873, 39.9577 ]
+    },
+    "properties" : {
+      "titles" : "Ilium/Troia",
+      "annotations" : 4
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/550595" ],
+    "titles" : [ "Ilium/Troia" ],
+    "names" : [ "Ilium", "Troia", "Troia", "Troy", "Troy", "Troja", "Τροία", "Troía, Troia" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ilium", "Ilium", "Ilium", "Ilium" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 1, 42.67 ]
+    },
+    "properties" : {
+      "titles" : "Pyrenaei (mountains)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/246582" ],
+    "titles" : [ "Pyrenaei (mountains)" ],
+    "names" : [ "Pyrenaei M.", "Pyrenees", "Pyrenees", "Pirineos", "Pirineos", "Pirenéus", "Pirenéus, Pireneus", "Pyrénées, Pyrenees", "Pyrénées" ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Pyrenees" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.2499999, 40.6666672 ]
+    },
+    "properties" : {
+      "titles" : "Propontis",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/511381" ],
+    "titles" : [ "Propontis" ],
+    "names" : [ "Propontis", "Sea of Marmara" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Propontis", "Propontis", "Propontis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.258433, 37.062775 ]
+    },
+    "properties" : {
+      "titles" : "Gela",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/462214" ],
+    "titles" : [ "Gela" ],
+    "names" : [ "Gela", "Γέλα", "Gela", "Agela", "Agela", "Gela", "Gela" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Cretan Cape" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 72.5, 32.5 ]
+    },
+    "properties" : {
+      "titles" : "Oxydrakai/Sydrakai",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59970" ],
+    "titles" : [ "Oxydrakai/Sydrakai" ],
+    "names" : [ "Oxydrakai", "Sydrakai", "Hydrakai", "Sodroi", "Sydroi" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Skodroi" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.4852, 36.756188 ]
+    },
+    "properties" : {
+      "titles" : "Magarsa/Antiochia ad Pyramum",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/648701" ],
+    "titles" : [ "Magarsa/Antiochia ad Pyramum" ],
+    "names" : [ "Magarsa", "Antiochia ad Pyramum", "Magarsos" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Mallos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 34.00704, 44.40646 ]
+    },
+    "properties" : {
+      "titles" : "Simeiz",
+      "annotations" : 2
+    },
+    "uris" : [ "http://sws.geonames.org/693809" ],
+    "titles" : [ "Simeiz" ],
+    "names" : [ "Симеиз", "Simejis", "Simeïz", "西梅伊茲" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Simois", "Simois" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 43.1609, 36.34773 ]
+    },
+    "properties" : {
+      "titles" : "Nineveh/Ninos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/874621" ],
+    "titles" : [ "Nineveh/Ninos" ],
+    "names" : [ "Ninuwā, Ninua", "Ninâ", "Kuyunjik, Kouyounjik", "Nebi Yunus", "Ninive", "نينوى", "Nineveh", "Nineveh", "Νῖνος", "Nȋnos, Ninos" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Assyrian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.25, 36.75 ]
+    },
+    "properties" : {
+      "titles" : "Aleion Pedion",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/648554" ],
+    "titles" : [ "Aleion Pedion" ],
+    "names" : [ "Aleion Pedion" ],
+    "place_types" : [ "plain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Aleian Plain" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.4412386, 38.0304732 ]
+    },
+    "properties" : {
+      "titles" : "Cayster (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/550492" ],
+    "titles" : [ "Cayster (river)" ],
+    "names" : [ "Cayster" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Cayster" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.4088929, 60.3962008 ]
+    },
+    "properties" : {
+      "titles" : "Thule? Inss.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/20624" ],
+    "titles" : [ "Thule? Inss." ],
+    "names" : [ "Thule" ],
+    "place_types" : [ "archipelago", "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Thule" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.432028, 44.952389 ]
+    },
+    "properties" : {
+      "titles" : "Padus/Eridanus (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/393469" ],
+    "titles" : [ "Padus/Eridanus (river)" ],
+    "names" : [ "Padus", "Eridanus", "Eridanus" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Eridanus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 57.5, 27.5 ]
+    },
+    "properties" : {
+      "titles" : "Carmania",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/29517" ],
+    "titles" : [ "Carmania" ],
+    "names" : [ "Carmania" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Carmanoi" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.1423975, 30.1709431 ]
+    },
+    "properties" : {
+      "titles" : "Bolbitinos (river)",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/727087" ],
+    "titles" : [ "Bolbitinos (river)" ],
+    "names" : [ "Bolbitinos", "Rosetta Branch", "Rosette-Arm", "Taly potamos", "Farʿ Rašīd, Far Rashid, Far' Rashid", "Taly Potamos" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Nile", "Nile", "Nile" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.25, 38.75 ]
+    },
+    "properties" : {
+      "titles" : "Aetolia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/540591" ],
+    "titles" : [ "Aetolia" ],
+    "names" : [ "Aetolia" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Aetolian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.75, 40.75 ]
+    },
+    "properties" : {
+      "titles" : "Calabria",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/442518" ],
+    "titles" : [ "Calabria" ],
+    "names" : [ "Calabria", "Calabri" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Calabria" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 34.7425505, 43.0786852 ]
+    },
+    "properties" : {
+      "titles" : "Pontus Euxinus",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/1224" ],
+    "titles" : [ "Pontus Euxinus" ],
+    "names" : [ "Pontus Euxinus", "Black Sea" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Euxine Sea", "Euxine Sea" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.719616, 39.119096 ]
+    },
+    "properties" : {
+      "titles" : "Peparethos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/541023" ],
+    "titles" : [ "Peparethos" ],
+    "names" : [ "Peparethos", "Evoenus" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Peparethos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 67.5, 22.5 ]
+    },
+    "properties" : {
+      "titles" : "Patalene",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59988" ],
+    "titles" : [ "Patalene" ],
+    "names" : [ "Patalene", "Patala", "Patale", "Patalii" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Patalene" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.75, 39.25 ]
+    },
+    "properties" : {
+      "titles" : "Cappadocia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/628949" ],
+    "titles" : [ "Cappadocia" ],
+    "names" : [ "Cappadocia" ],
+    "place_types" : [ "labeled feature" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Cappadocians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.75, 37.25 ]
+    },
+    "properties" : {
+      "titles" : "Commagene",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/658443" ],
+    "titles" : [ "Commagene" ],
+    "names" : [ "Commagene" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Commagene" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.42454, 37.08149 ]
+    },
+    "properties" : {
+      "titles" : "Sparta",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570685" ],
+    "titles" : [ "Sparta" ],
+    "names" : [ "Sparta" ],
+    "place_types" : [ "theatre", "settlement", "temple", "temple-2" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sparta", "Sparta" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.339722, 37.941944 ]
+    },
+    "properties" : {
+      "titles" : "Ephesus/Arsinoe(ia)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/599612" ],
+    "titles" : [ "Ephesus/Arsinoe(ia)" ],
+    "names" : [ "Ephesus", " Arsinoeia", " Arsinoe", "Aya Soluḳ, Aya Soluq", "Aya S̱oluḳ", "Aya Soluq", "Ayāsulūk, Ayasuluk, Aya Suluk", "Ayā Sulūk", "Arsinoē, Arsinoe, Arsinoë", "Efes", "Ufsūs, Ufsus", "Selçuk, Selchuk, Seljuk", "Apaša, Apasa, Apasha", "Apasa", "ʾfss", "Ayasoluk", "Afsīs, Afsis", "Ephesus", "Ἔφεσος", "Ephesos" ],
+    "place_types" : [ "settlement", "temple-2", "theatre", "architecturalcomplex" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ephesus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.71135, 37.98336 ]
+    },
+    "properties" : {
+      "titles" : "Sicyon/Demetrias",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570668" ],
+    "titles" : [ "Sicyon/Demetrias" ],
+    "names" : [ "Sicyon", "Demetrias", "Aigialeia", "Mekora" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Aigialeia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -5.75, 35.25 ]
+    },
+    "properties" : {
+      "titles" : "Masikes",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/275672" ],
+    "titles" : [ "Masikes" ],
+    "names" : [ "Masikes" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Masyles" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5, 47.5 ]
+    },
+    "properties" : {
+      "titles" : "Noricum (province)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/981538" ],
+    "titles" : [ "Noricum (province)" ],
+    "names" : [ "Noricum" ],
+    "place_types" : [ "province" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Noricum" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 40.5, 40.5 ]
+    },
+    "properties" : {
+      "titles" : "Kissioi",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857190" ],
+    "titles" : [ "Kissioi" ],
+    "names" : [ "Kissioi" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Kissoi" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 53.17334, 30.1985 ]
+    },
+    "properties" : {
+      "titles" : "Pasargadae/Batrakatash",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/922693" ],
+    "titles" : [ "Pasargadae/Batrakatash" ],
+    "names" : [ "Pasargadae", "Batrakatash", "Parsagada" ],
+    "place_types" : [ "hill", "tomb", "settlement", "architecturalcomplex", "fort" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Pasargadae" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 46.5, 32.5 ]
+    },
+    "properties" : {
+      "titles" : "Tigris/Diglitus (river)",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/912964" ],
+    "titles" : [ "Tigris/Diglitus (river)" ],
+    "names" : [ "Tigris", "Diglitus", "Idiglat", "Dicle", "Idiglat", "Tigrēs, Tigres", "Diǧla, Dijla, Dijlah, Diǧlah, el-Diǧle, el-Diǧleh, el-Dijle, el-Dijleh, al-Diǧla, al-Diǧlah, al-Dijla, al-Dijlah, ed-Diǧle, ed-Diǧleh, ed-Dijle, ed-Dijleh, ad-Diǧla, ad-Diǧlah, ad-Dijla, ad-Dijlah, Dıʾǧla, Dijle, Dijleh, Diǧle, Diǧleh", "Diǧle Nehri", "Tigrā, Tigra", "Tigris", "Tigris", "Tigris", "Dklaṭ, Dklat", "Dıʾǧla", "Šaṭṭ, Shatt", "Šaṭṭ, Shatt", "Idigina", "Idiqlat", "ad-Diǧla" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Tigris", "Tigris", "Tigris" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.9056, 46.69238 ]
+    },
+    "properties" : {
+      "titles" : "Borysthenes/Olbia",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/226546" ],
+    "titles" : [ "Borysthenes/Olbia" ],
+    "names" : [ "Borysthenes", "Olbia", "Miletopolis", "Olbiopolis", "Olbiopolis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Borysthenes", "Borysthenes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.356944, 39.801 ]
+    },
+    "properties" : {
+      "titles" : "Leuca/Portus Sallentinus",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/442632" ],
+    "titles" : [ "Leuca/Portus Sallentinus" ],
+    "names" : [ "Leuca", "Portus Sallentinus" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Leuce" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.75, 42.25 ]
+    },
+    "properties" : {
+      "titles" : "Marsi",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/413191" ],
+    "titles" : [ "Marsi" ],
+    "names" : [ "Marsi", "Marsi" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Marsi" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.031187, 38.479327 ]
+    },
+    "properties" : {
+      "titles" : "Temple of Artemis, Sardis",
+      "annotations" : 1
+    },
+    "uris" : [ "http://dare.ht.lu.se/places/43013" ],
+    "titles" : [ "Temple of Artemis, Sardis" ],
+    "names" : [ "Temple of Artemis, Sardis" ],
+    "source_gazetteers" : [ "dare-20180219" ],
+    "quotes" : [ "Sardis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.5, 31.5 ]
+    },
+    "properties" : {
+      "titles" : "Libya",
+      "annotations" : 12
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/716588" ],
+    "titles" : [ "Libya" ],
+    "names" : [ "Libya" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Libya", "Libya", "Libya", "Libya", "Libya", "Libya", "Libya", "Libya", "Libya", "Libya", "Libya", "Libya" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 42.5, 42.5 ]
+    },
+    "properties" : {
+      "titles" : "Colchis/Lazike",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/863770" ],
+    "titles" : [ "Colchis/Lazike" ],
+    "names" : [ "Κολχὶς", "Colchis", "Lazike" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Colchians", "Colchians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.5, 30.5 ]
+    },
+    "properties" : {
+      "titles" : "Nasamones",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/373861" ],
+    "titles" : [ "Nasamones" ],
+    "names" : [ "Nasamones" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Nasamons" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.40531, 36.19053 ]
+    },
+    "properties" : {
+      "titles" : "Chelidoniae (islands)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/638799" ],
+    "titles" : [ "Chelidoniae (islands)" ],
+    "names" : [ "Chelidoniae" ],
+    "place_types" : [ "archipelago" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Chelidoniae", "Chelidonian isles" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.5, 46.5 ]
+    },
+    "properties" : {
+      "titles" : "Panticapes? (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/226712" ],
+    "titles" : [ "Panticapes? (river)" ],
+    "names" : [ "Παντικάπης", "Panticapes" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Panticapes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.75, 38.75 ]
+    },
+    "properties" : {
+      "titles" : "Hyrcanius Campus",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/550587" ],
+    "titles" : [ "Hyrcanius Campus" ],
+    "names" : [ "Hyrcanius Campus" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Hyrcanian", "Hyrcanian", "Hyrcanian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.89066, 24.08292 ]
+    },
+    "properties" : {
+      "titles" : "Elephantine",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/786021" ],
+    "titles" : [ "Elephantine" ],
+    "names" : [ "Elephantine", "Abu", "(jw)ꜣbw, (jw)3bw, jw3bw, jw 3bw", "(jw) 3bw", "ꜣbw, 3bw, Abu", "3bw", "Iēb, Ieb, Yabu", "Iēb, Ieb, Yabu", "Elephantinē, Elephantine", "Gazirat Aswān, Gazirat Aswan", "Ǧazīrat Aswān, Jazirat Aswan, Jezirat Aswan, Aswan Island" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Syene", "Syene" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.3179944, 36.2673939 ]
+    },
+    "properties" : {
+      "titles" : "Church, Patara",
+      "annotations" : 1
+    },
+    "uris" : [ "http://dare.ht.lu.se/places/43027" ],
+    "titles" : [ "Church, Patara" ],
+    "names" : [ "Church, Patara" ],
+    "source_gazetteers" : [ "dare-20180219" ],
+    "quotes" : [ "Patarean" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.26635, 40.22786 ]
+    },
+    "properties" : {
+      "titles" : "Vallo della Lucania",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3164794" ],
+    "titles" : [ "Vallo della Lucania" ],
+    "names" : [ "Vallo di Lucania", "Vallo della Lucania", "Vallo della Lucania", "Vallo della Lucania", "Vallo della Lucania" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Lucanians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 68.3144972, 37.1103808 ]
+    },
+    "properties" : {
+      "titles" : "Oxus (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59969" ],
+    "titles" : [ "Oxus (river)" ],
+    "names" : [ "Oxus", "Araxes", "Baktros", "Amu Darya" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Oxus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 40.5, 47.5 ]
+    },
+    "properties" : {
+      "titles" : "Satarchae",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/825372" ],
+    "titles" : [ "Satarchae" ],
+    "names" : [ "Satarchae" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Scythian Ocean" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 5.365307, 43.299467 ]
+    },
+    "properties" : {
+      "titles" : "Massalia/Massilia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/148127" ],
+    "titles" : [ "Massalia/Massilia" ],
+    "names" : [ "Massalia", "Massilia", "Marseille", "Μασσαλία", "Massalía, Massalia" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Marseille" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 42.4378759, 43.3525468 ]
+    },
+    "properties" : {
+      "titles" : "Caucasus (mountain range)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/863766" ],
+    "titles" : [ "Caucasus (mountain range)" ],
+    "names" : [ "Caucasus", "Caucasus M." ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Caucasus", "Caucasus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.21755, 40.829595 ]
+    },
+    "properties" : {
+      "titles" : "Parthenope/Neapolis",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/433014" ],
+    "titles" : [ "Parthenope/Neapolis" ],
+    "names" : [ "Parthenope", "Νεάπολις", "Neapolis", "Naples", "Naples", "Napoli" ],
+    "place_types" : [ "urban", "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Parthenope", "Parthenope" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.19389, 33.27333 ]
+    },
+    "properties" : {
+      "titles" : "Tyre",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/267008" ],
+    "titles" : [ "Tyre" ],
+    "names" : [ "Soûr", "Es Sur", "Şūr", "Tiro", "الصور", "Tyr", "صور", "Tyre", "Tyr", "Tyros", "Τύρος", "Tiro", "ティルス", "Tiro", "Тир" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Tyre" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.5, 42.5 ]
+    },
+    "properties" : {
+      "titles" : "Dardania",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/481798" ],
+    "titles" : [ "Dardania" ],
+    "names" : [ "Dardania", "Dardani" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Dardanians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.95316, 39.04107 ]
+    },
+    "properties" : {
+      "titles" : "Ambracia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/530794" ],
+    "titles" : [ "Ambracia" ],
+    "names" : [ "Ambracia", "Ἀμβρακία", "Ambrakía, Ambrakia" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ambracian islands" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.774722, 37.691944 ]
+    },
+    "properties" : {
+      "titles" : "Heraion (Argolis)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570289" ],
+    "titles" : [ "Heraion (Argolis)" ],
+    "names" : [ "Heraion Argolis", "Heraion" ],
+    "place_types" : [ "sanctuary" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Argive" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.75, 40.75 ]
+    },
+    "properties" : {
+      "titles" : "Peucetii",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/442714" ],
+    "titles" : [ "Peucetii" ],
+    "names" : [ "Peucetii" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Peucentine" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 104.1125, 35.84278 ]
+    },
+    "properties" : {
+      "titles" : "Yuzhong Chengguanzhen",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/1785533" ],
+    "titles" : [ "Yuzhong Chengguanzhen" ],
+    "names" : [ "Chin", "Yü-chung-hsien", "Chin-ch’eng", "Yü-chung", "Yuzhong", "Yuzhong Chengguanzhen", "榆中城关镇", "Yuzhong Xian", "榆中县" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Seres" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.475921, 36.873988 ]
+    },
+    "properties" : {
+      "titles" : "Seleukeia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/639099" ],
+    "titles" : [ "Seleukeia" ],
+    "names" : [ "Seleukeia" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Lyrbe" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.5, 45.5 ]
+    },
+    "properties" : {
+      "titles" : "Dacia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/207065" ],
+    "titles" : [ "Dacia" ],
+    "names" : [ "Dacia" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Dacians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 68.054, 33.794 ]
+    },
+    "properties" : {
+      "titles" : "Arachotos Krene",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59695" ],
+    "titles" : [ "Arachotos Krene" ],
+    "names" : [ "Arachotos Krene" ],
+    "place_types" : [ "water-inland", "lake" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Arachotae" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.75, 38.25 ]
+    },
+    "properties" : {
+      "titles" : "Cilicia",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/628957" ],
+    "titles" : [ "Cilicia" ],
+    "names" : [ "Cilicia" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Cilicia", "Cilicia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.25, 36.75 ]
+    },
+    "properties" : {
+      "titles" : "Pinaros? (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/658572" ],
+    "titles" : [ "Pinaros? (river)" ],
+    "names" : [ "Pinaros" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Pinaros" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 48.5, 37.5 ]
+    },
+    "properties" : {
+      "titles" : "Gelai?",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/884153" ],
+    "titles" : [ "Gelai?" ],
+    "names" : [ "Gelai", "Geloi", "Gelani" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Geloi" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.65285, 25.70247 ]
+    },
+    "properties" : {
+      "titles" : "Diospolis Magna/Thebai",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/786017" ],
+    "titles" : [ "Diospolis Magna/Thebai" ],
+    "names" : [ "Diospolis Magna", "Thebai", "Thebes east", "أَلْأُقْصُر", "Luxor", "ḥwt-nṯrn Ḫnsw (mwꜣst), ḥwt-nṯrn Ḫnsw, ḥwt-nṯrn Ḫnsw mwꜣst", "ḥwt-nṯr nt Jmn-(Rʿ), ḥwt-nṯr nt Jmn, ḥwt-nṯr nt Jmn-Rʿ", "al-Karnak", "pr-Jmn", "jpt rst, Ipet-Resit", "jpt-swt (mwꜣst), jpt-swt mwꜣst, jpt-swt mwꜣst, jpt-swt mw3st", "Nēʾ, Ne', Ne", "njwt-rsjt, Niwt-Resit", "wꜣst, w3st, Waset", "al-Uqṣurēn, al-Uqsuren, el-Uqsuren", "al-Uqṣurain, al-Uqsurain, el-Uqsurein, al-Uqsurayn, el-Uqsureyn", "al-Uqṣur, al-Uqsur, el-Uqsur", "jpt swt, jpt-swt, Ipet-Sut", "jpt-swt", "Papē, Pape", "Thēbai, Thebai", "Dios polis megalē", "Diospolis Megalē, Diospolis Megale, Dios Polis Megale", "Diospolis megalē", "Diospolis Magna", "Diospolis magna", "Theben-West, West Thebes", "Theben", "Diospolis, Dios Polis", "njwt, Niwt", "[pr]-Sḫm-Rʿḫwj‑[tꜣwj], Sḫm-Rʿḫwj‑tꜣwj, pr-Sḫm-Rʿḫwj‑tꜣwj, pr-Sḫm-Rʿḫwj, Sḫm-Rʿḫwj, Sḫm-Rʿḫwj‑t3wj, pr-Sḫm-Rʿḫwj‑t3wj", "[pr]-Sbk-ḥtpmpr-Jmn, pr-Sbk-ḥtpmpr-Jmn, Sbk-ḥtpmpr-Jmn", "pr-Mnṯw, Per-Menthu", "Luxor", "Ḫpr-kꜣ-Rʿswt-ḏfꜣw, Ḫpr-k3-Rʿswt-ḏf3w", "Ḫpr-kꜣ-Rʿḫnttjpt-swt, Ḫpr-k3-Rʿḫnttjpt-swt", "Karnak", "Karnak", "al-Uqsur", "ḥwt Ptḥwꜣst(j), ḥwt Ptḥwꜣst, ḥwt Ptḥwꜣstj, ḥwt Ptḥw3stj, ḥwt Ptḥw3st" ],
+    "place_types" : [ "settlement", "temple-2" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Thebes", "Thebes", "Thebes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.388132, 40.047756 ]
+    },
+    "properties" : {
+      "titles" : "Basta",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/442502" ],
+    "titles" : [ "Basta" ],
+    "names" : [ "Basta", "Basta", "Bausta", "Basterbini", "Basterbini", "Parco dei Guerrieri", "Parco dei Guerrieri" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Iapygian", "Iapygian", "Iapygian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 67.5, 37.5 ]
+    },
+    "properties" : {
+      "titles" : "Bactria",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/971705" ],
+    "titles" : [ "Bactria" ],
+    "names" : [ "Bactria", "Aseni", "Baktrioi", "Bactriani", "Zariaspai" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Bactrians", "Bactrians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.5, 47.5 ]
+    },
+    "properties" : {
+      "titles" : "Scythia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/1273" ],
+    "titles" : [ "Scythia" ],
+    "names" : [ "Scythia", "Skythai" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Scythia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.75, 45.25 ]
+    },
+    "properties" : {
+      "titles" : "Cimmerius Bosp(h)orus",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/854675" ],
+    "titles" : [ "Cimmerius Bosp(h)orus" ],
+    "names" : [ "Cimmerius Bosphorus", "Cimmerius Bosporus", "Κιμμερικὸς Βόσπορος", "Kimmerikos Bosporos" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Cimmerians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 87.5, 22.5 ]
+    },
+    "properties" : {
+      "titles" : "Gangaridae",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59820" ],
+    "titles" : [ "Gangaridae" ],
+    "names" : [ "Gangaridae", "Gandaridai" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Gargaridae" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 39.5, 19 ]
+    },
+    "properties" : {
+      "titles" : "Arabicus Sinus/Erythr(ae)um/Rubrum Mare",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39290" ],
+    "titles" : [ "Arabicus Sinus/Erythr(ae)um/Rubrum Mare" ],
+    "names" : [ "Arabicus Sinus", "Erythraeum", "Erythrum", "Rubrum Mare", "Indike Thalassa", "Red Sea" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Indian Sea" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.165323097346, 37.56741926845 ]
+    },
+    "properties" : {
+      "titles" : "Arcadia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570102" ],
+    "titles" : [ "Arcadia" ],
+    "names" : [ "Arcadia", "Pelasgia", "Ἀρκαδία", "Arkadía, Arkadia" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Arcadians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.717213, 42.121777 ]
+    },
+    "properties" : {
+      "titles" : "Phasis",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857275" ],
+    "titles" : [ "Phasis" ],
+    "names" : [ "Phasis", "Phasianoi" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Phasis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.165318, 36.200663 ]
+    },
+    "properties" : {
+      "titles" : "Antiochia/Theoupolis",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/658381" ],
+    "titles" : [ "Antiochia/Theoupolis" ],
+    "names" : [ "Antiochia", "Theoupolis", "Iopolis", "Antiocheia epi Daphnē, Antiocheia on Daphne", "Anṭaqya", "Antiocheia", "Antakya", "Anṭākiya, Antakiya, Antakiyah, Antakiyya, Antakiyyah", "Anṭaḳya, Antaqya", "Anṭākya", "Anṭakya, Antakya", "Antiochia", "Antiochia", "Hatay", "III Gallica (Vesp.) garrison, III Gallica (Vespasian) garrison", "Antiocheia am Orontes", "Antiocheia am Orontēs, Antiocheia epi Orontou, Antiocheia on the Orontes" ],
+    "place_types" : [ "urban", "settlement", "amphitheatre" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Antioch", "Antioch" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.782047, 35.513994 ]
+    },
+    "properties" : {
+      "titles" : "Laodicea",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/668290" ],
+    "titles" : [ "Laodicea" ],
+    "names" : [ "Laodicea", "Laodikene", "Mazabda" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Laodice" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.75, 37.75 ]
+    },
+    "properties" : {
+      "titles" : "Touthoa (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570743" ],
+    "titles" : [ "Touthoa (river)" ],
+    "names" : [ "Touthoa" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ladon" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.434233, 37.7990835 ]
+    },
+    "properties" : {
+      "titles" : "Lilybaeum",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/462281" ],
+    "titles" : [ "Lilybaeum" ],
+    "names" : [ "Lilybaeum", "Lilybaeum", "Marsala", "Marsala", "Λιλύβαιον", "Lilybaion", "Lilybeum", "Lilybeum", "Lilibeo", "Lilibeo" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Lilybe", "Lilybe" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.370946, 45.769631 ]
+    },
+    "properties" : {
+      "titles" : "Aquileia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/187290" ],
+    "titles" : [ "Aquileia" ],
+    "names" : [ "Aquileia", "Aquileia", "Ἀκυληία", "Aquileia" ],
+    "place_types" : [ "settlement", "church" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Aquileia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 4.080556, 51.981667 ]
+    },
+    "properties" : {
+      "titles" : "Rhenus (river)",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/109277" ],
+    "titles" : [ "Rhenus (river)" ],
+    "names" : [ "Rhenus" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Rhine", "Rhine", "Rhine" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.75, 41.75 ]
+    },
+    "properties" : {
+      "titles" : "Thynoi",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/511441" ],
+    "titles" : [ "Thynoi" ],
+    "names" : [ "Thynoi" ],
+    "place_types" : [ "labeled feature" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Thynoi" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 67.5, 27.5 ]
+    },
+    "properties" : {
+      "titles" : "Oreitae/Nearti",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59956" ],
+    "titles" : [ "Oreitae/Nearti" ],
+    "names" : [ "Ὠρεῖται", "Oreitae", "Nearti", "Aboritae", "Abortae", "Noritae", "Oreitidoi", "Oroi" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Oreitae" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.092803, 36.706086 ]
+    },
+    "properties" : {
+      "titles" : "Hydas",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/599652" ],
+    "titles" : [ "Hydas" ],
+    "names" : [ "Hydas", "Hylas" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Hylas" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.2, 39.6 ]
+    },
+    "properties" : {
+      "titles" : "Thessalia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/1332" ],
+    "titles" : [ "Thessalia" ],
+    "names" : [ "Thessalia" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Thessaly" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.772521, 45.647165 ]
+    },
+    "properties" : {
+      "titles" : "Tergeste",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/187578" ],
+    "titles" : [ "Tergeste" ],
+    "names" : [ "Tergeste", "Trieste" ],
+    "place_types" : [ "urban", "theatre", "plaza", "vicus", "settlement", "fort" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Tergeste" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.2705999, 29.7497813 ]
+    },
+    "properties" : {
+      "titles" : "Nilus (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/727172" ],
+    "titles" : [ "Nilus (river)" ],
+    "names" : [ "Nilus", "Nilus", "Nile river", "Nile river", "Nile", "Neilos", "an-Nīl, al-Nil, en-Nil, el-Nil", "Nil", "Νεῖλος", "Neilos, Neĩlos" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Nilus", "Nilus’ mouth" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.14501, 38.03955 ]
+    },
+    "properties" : {
+      "titles" : "Zephyrium Pr.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/452495" ],
+    "titles" : [ "Zephyrium Pr." ],
+    "names" : [ "Zephyrium promontorium", "Zephyrium Pr." ],
+    "place_types" : [ "cape" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Bruttian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.9469437222, 35.0627201667 ]
+    },
+    "properties" : {
+      "titles" : "Gortyn(a)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/589796" ],
+    "titles" : [ "Gortyn(a)" ],
+    "names" : [ "Gortyna", "Gortyn", "Ellotis", "Kremnia", "Larissa", "Γόρτυνα", "Gortyna" ],
+    "place_types" : [ "urban", "theatre", "church", "settlement", "architecturalcomplex" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Gortyn" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.25, 38.25 ]
+    },
+    "properties" : {
+      "titles" : "Echinades (islands)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/530852" ],
+    "titles" : [ "Echinades (islands)" ],
+    "names" : [ "Ἐχινάδες", "Echinades", "Echinai" ],
+    "place_types" : [ "archipelago" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Echinades" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.55256, 38.19394 ]
+    },
+    "properties" : {
+      "titles" : "Messina",
+      "annotations" : 2
+    },
+    "uris" : [ "http://sws.geonames.org/2524170" ],
+    "titles" : [ "Messina" ],
+    "names" : [ "Messina", "Messina", "Messina", "ميسينا", "Messine", "Messina", "メッシーナ", "Messina", "Мессина", "墨西拿", "Mesina" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Sicilian strait", "Sicily’s strait" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.25, 35.25 ]
+    },
+    "properties" : {
+      "titles" : "Amnisos (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/589682" ],
+    "titles" : [ "Amnisos (river)" ],
+    "names" : [ "Amnisos" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Amnisos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 39.5, 45.5 ]
+    },
+    "properties" : {
+      "titles" : "Sarmatia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/825371" ],
+    "titles" : [ "Sarmatia" ],
+    "names" : [ "Sarmatia", "Sarmatae", "Sauromatae" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sauromatian land" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.2342661, 34.7865653 ]
+    },
+    "properties" : {
+      "titles" : "Cercina (island)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/324690" ],
+    "titles" : [ "Cercina (island)" ],
+    "names" : [ "insula Cercina", "insula Cercina" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Kerkinna" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.817833, 34.447 ]
+    },
+    "properties" : {
+      "titles" : "Tripolis",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/668394" ],
+    "titles" : [ "Tripolis" ],
+    "names" : [ "Tripolis", "Τρίπολις", "Tripolis", "Ṭarābulus, Tarabulus", "al-Mīnā", "al-Mīnāʾ, al-Mina, el-Mina, al-Mina', el-Mina'", "Tripolis", "Tripolis", "Waḫliya, Wakhliya, Wahliya", "Ṭrāblus, Trablus", "Ṭarābulus aš-Šām, Tarabulus ash-Sham, Tarabulus esh-Sham, Tarabulus al-Sham, Tarabulus el-Sham, Tarablus ash-Sham, Tarablus esh-Sham, Tarablus al-Sham, Tarablus el-Sham", "Ṭarābulus, Tarabulus, Tarablus", "Ṭarāblus", "Tripoli", "Tripoli" ],
+    "place_types" : [ "urban", "theatre", "fort-group", "pass", "cemetery", "bath", "church", "settlement", "temple", "road" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Tripolis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.25, 40.75 ]
+    },
+    "properties" : {
+      "titles" : "Apsinthis",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/501356" ],
+    "titles" : [ "Apsinthis" ],
+    "names" : [ "Apsinthis" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Apsynthus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.12758, 36.64038 ]
+    },
+    "properties" : {
+      "titles" : "Fethiye",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/314967" ],
+    "titles" : [ "Fethiye" ],
+    "names" : [ "Makry", "Makri", "Telmessus", "Fethieh", "Fethy", "Fetiye", "Фетхие", "Fethiye", "فتحية", "Μάκρη", "フェトヒイェ", "费特希耶", "Fethiye", "Fethiye", "Fethiye" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Telmessus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.5, 33.5 ]
+    },
+    "properties" : {
+      "titles" : "Gaetuli",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/344357" ],
+    "titles" : [ "Gaetuli" ],
+    "names" : [ "Gaetuli" ],
+    "place_types" : [ "labeled feature" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Gaetyli" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 78.916667, 30.983333 ]
+    },
+    "properties" : {
+      "titles" : "Ganges (river)",
+      "annotations" : 5
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/59822" ],
+    "titles" : [ "Ganges (river)" ],
+    "names" : [ "Ganges", "Padus", "Phison", "Alibotra" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ganges", "Ganges", "Ganges", "Ganges", "Ganges" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.75, 37.75 ]
+    },
+    "properties" : {
+      "titles" : "Triphylia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/570754" ],
+    "titles" : [ "Triphylia" ],
+    "names" : [ "Triphylia" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Triphylian" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.4275, 37.74667 ]
+    },
+    "properties" : {
+      "titles" : "Aegina",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/265502" ],
+    "titles" : [ "Aegina" ],
+    "names" : [ "Aíyina", "Aegina", "Αίγινα", "Egina", "Aígina" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Aegina" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.5, 37.5 ]
+    },
+    "properties" : {
+      "titles" : "Mesopotamia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/981534" ],
+    "titles" : [ "Mesopotamia" ],
+    "names" : [ "Mesopotamia" ],
+    "place_types" : [ "province" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Mesopotamia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 34.89277, 36.91766 ]
+    },
+    "properties" : {
+      "titles" : "Tarsus",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/299817" ],
+    "titles" : [ "Tarsus" ],
+    "names" : [ "Antiochia ad Cydnum", "Tarsos", "Tarsous", "Tarsus", "Tarsus", "Tarso", "Ταρσός", "Tarse", "Tarso", "タルスス", "Tarsus", "Tarso", "Tarsus", "طرسوس", "Тарсус", "大數" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Tarsus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.645732, 34.119026 ]
+    },
+    "properties" : {
+      "titles" : "Byblos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/668216" ],
+    "titles" : [ "Byblos" ],
+    "names" : [ "Byblos", "Byblos", "Ǧubail", "Gǝbȧl", "Gǝbal, Gebal", "Ǧubail, Jubail, Jubeil, Jubayl, Jubeyl, Jubiyl", "gbl", "Gibelet, Giblet", "Gubl", "Gubla", "Gubla", "Gubla", "Ǧubēl, Jubel, Jbeil" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Byblos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.21322, 35.50701 ]
+    },
+    "properties" : {
+      "titles" : "Karpathos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/260895" ],
+    "titles" : [ "Karpathos" ],
+    "names" : [ "Pegadia", "Pigadia", "Pigádhia", "Κάρπαθος", "Karpathos", "Karpathos", "Karpathos" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Carpathos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.491469, 38.535161 ]
+    },
+    "properties" : {
+      "titles" : "Maionia/*Atetta?",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/550709" ],
+    "titles" : [ "Maionia/*Atetta?" ],
+    "names" : [ "Maionia", "Atetta" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Maeonia", "Maeonia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.0044807, 39.6814835 ]
+    },
+    "properties" : {
+      "titles" : "Arachthos/Araththos/Aratthos/Aracthus (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/530807" ],
+    "titles" : [ "Arachthos/Araththos/Aratthos/Aracthus (river)" ],
+    "names" : [ "Ἄραχθος", "Arachthos, Árachthos", "Araththos", "Ἄρατθος", "Aratthos", "Άραχθος", "Arachthos" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Aracynthus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.5, 43.5 ]
+    },
+    "properties" : {
+      "titles" : "Boulinoi",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/197176" ],
+    "titles" : [ "Boulinoi" ],
+    "names" : [ "Boulinoi" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Boulimi" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.551573, 36.524579 ]
+    },
+    "properties" : {
+      "titles" : "Phaselis",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/639051" ],
+    "titles" : [ "Phaselis" ],
+    "names" : [ "Phaselis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Phaselis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 47.5, 17.5 ]
+    },
+    "properties" : {
+      "titles" : "Minaei",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/39386" ],
+    "titles" : [ "Minaei" ],
+    "names" : [ "Minaei", "Μιναῖοι", "Minaioi", "Minoes" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Minnaei" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 49.608606, 31.282166 ]
+    },
+    "properties" : {
+      "titles" : "Ram Hurmizd",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/912926" ],
+    "titles" : [ "Ram Hurmizd" ],
+    "names" : [ "Ram Hurmizd" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Persia", "Persia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -5.384583, 35.9358335 ]
+    },
+    "properties" : {
+      "titles" : "Columnae Herculis",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/275614" ],
+    "titles" : [ "Columnae Herculis" ],
+    "names" : [ "Columnae Herculis" ],
+    "place_types" : [ "cape" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Pillars", "Pillars", "Heracles’ pillars" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.74983, 41.35808 ]
+    },
+    "properties" : {
+      "titles" : "Ausonia",
+      "annotations" : 2
+    },
+    "uris" : [ "http://sws.geonames.org/3182665" ],
+    "titles" : [ "Ausonia" ],
+    "names" : [ "Ausonia", "Ausonia", "Ausonia", "Ausonia", "Ausonia", "アウゾーニア", "Аузония", "奥索尼亚" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Ausonia", "Ausonians" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.241643, 33.95773 ]
+    },
+    "properties" : {
+      "titles" : "Chalcis sub Libano",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/678086" ],
+    "titles" : [ "Chalcis sub Libano" ],
+    "names" : [ "Chalcis sub Libano" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Libanon" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.975926, 41.012379 ]
+    },
+    "properties" : {
+      "titles" : "Constantinopolis",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/520998" ],
+    "titles" : [ "Constantinopolis" ],
+    "names" : [ "Constantinopolis", "Istanbul" ],
+    "place_types" : [ "urban", "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Byzantium" ]
+  } ]
+}

@@ -1,0 +1,1820 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.5, 42.5 ]
+    },
+    "properties" : {
+      "titles" : "Sigames/Sicanabis (river)",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857318" ],
+    "titles" : [ "Sigames/Sicanabis (river)" ],
+    "names" : [ "Sigames", "Sicanabis", "Siganeon", "Sigania" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sigamos", "Sigamos", "Sigames" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.075278, 41.119444 ]
+    },
+    "properties" : {
+      "titles" : "Bosphorus",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/520977" ],
+    "titles" : [ "Bosphorus" ],
+    "names" : [ "Bosphorus", "Bosporos" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Bósforo Tracio" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.5, 42.5 ]
+    },
+    "properties" : {
+      "titles" : "Hippos (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857163" ],
+    "titles" : [ "Hippos (river)" ],
+    "names" : [ "Hippos" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Hipos", "Hipos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 40.5, 41.5 ]
+    },
+    "properties" : {
+      "titles" : "Zagatis (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857378" ],
+    "titles" : [ "Zagatis (river)" ],
+    "names" : [ "Zagatis" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Zagatis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.5, 41.5 ]
+    },
+    "properties" : {
+      "titles" : "Bathys (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857059" ],
+    "titles" : [ "Bathys (river)" ],
+    "names" : [ "Bathys" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Bathus", "Bathus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.573661, 41.573247 ]
+    },
+    "properties" : {
+      "titles" : "Apsaros/Apsyrtos",
+      "annotations" : 6
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857032" ],
+    "titles" : [ "Apsaros/Apsyrtos" ],
+    "names" : [ "Apsaros", "Apsyrtos", "Absarus", "Apsoros", "Valentia" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Apsaros", "Apsaros", "Apsaros", "Apsaros", "Apsaros", "Apsaros" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -84.37886, 9.97489 ]
+    },
+    "properties" : {
+      "titles" : "Atenas",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3624842" ],
+    "titles" : [ "Atenas" ],
+    "names" : [ "Atenas" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Atenas" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.647293, 45.16291 ]
+    },
+    "properties" : {
+      "titles" : "Danuvius/Istros/Hister (river)",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/226577" ],
+    "titles" : [ "Danuvius/Istros/Hister (river)" ],
+    "names" : [ "Danuvius", "Istros", "Hister", "Danube" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Hister", "Hister", "Hister" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.186582, 41.09037 ]
+    },
+    "properties" : {
+      "titles" : "Lilaios",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/845005" ],
+    "titles" : [ "Lilaios" ],
+    "names" : [ "Lilaios" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Lilaios", "Lilaios" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.5, 46.5 ]
+    },
+    "properties" : {
+      "titles" : "Maeotis",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/825318" ],
+    "titles" : [ "Maeotis" ],
+    "names" : [ "Maeotis", "Temarunda" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Meotis", "Meotis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.5, 41.5 ]
+    },
+    "properties" : {
+      "titles" : "Psilis/Papanios (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/845050" ],
+    "titles" : [ "Psilis/Papanios (river)" ],
+    "names" : [ "Psilis", "Papanios" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Psilis", "Psilas" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 40.5, 41.5 ]
+    },
+    "properties" : {
+      "titles" : "Adienos (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857011" ],
+    "titles" : [ "Adienos (river)" ],
+    "names" : [ "Adienos", "Adineos" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Adienos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.385648, 41.746969 ]
+    },
+    "properties" : {
+      "titles" : "Amastris/Sesamos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/844856" ],
+    "titles" : [ "Amastris/Sesamos" ],
+    "names" : [ "Amastris", "Sesamos", "Ἄμαστρις", "Amastris" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Amastris" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.5, 41.5 ]
+    },
+    "properties" : {
+      "titles" : "Konopeion Limne?",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857195" ],
+    "titles" : [ "Konopeion Limne?" ],
+    "names" : [ "Konopeion Limne" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Conopion", "Conopion" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.79305, 41.45139 ]
+    },
+    "properties" : {
+      "titles" : "Zonguldak",
+      "annotations" : 2
+    },
+    "uris" : [ "http://sws.geonames.org/737022" ],
+    "titles" : [ "Zonguldak" ],
+    "names" : [ "Songuldak", "Zoungouldagh", "Sandaraca", "Zunguldak", "Sungul", "Zonguldaq", "Зонгулдак", "Zonguldak", "زونغولداق", "Ζονγκουλντάκ", "ゾングルダク", "宗古爾達克" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Sandaraca", "Sandaraca" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.250706, 41.686799 ]
+    },
+    "properties" : {
+      "titles" : "Poseidon, T.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/845043" ],
+    "titles" : [ "Poseidon, T." ],
+    "names" : [ "Poseidon, T." ],
+    "place_types" : [ "sanctuary" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Poseidón" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.64585, 42.41593 ]
+    },
+    "properties" : {
+      "titles" : "Chorsos/Chobos (river)",
+      "annotations" : 5
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857092" ],
+    "titles" : [ "Chorsos/Chobos (river)" ],
+    "names" : [ "Chorsos", "Chobos" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Jobos", "Jobos", "Jobos", "Jobos", "Jobos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.843673, 45.023585 ]
+    },
+    "properties" : {
+      "titles" : "Kazeka",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/854694" ],
+    "titles" : [ "Kazeka" ],
+    "names" : [ "Kazeka" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Kazeca" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.220059, 41.22441 ]
+    },
+    "properties" : {
+      "titles" : "Rhebas",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/521134" ],
+    "titles" : [ "Rhebas" ],
+    "names" : [ "Rhebas" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Rebas" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 34.154469, 41.9627125 ]
+    },
+    "properties" : {
+      "titles" : "Kinolis",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/844984" ],
+    "titles" : [ "Kinolis" ],
+    "names" : [ "Kinolis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Kinolis", "Kinolis", "Kinolis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.5, 41.5 ]
+    },
+    "properties" : {
+      "titles" : "Pyxites (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857295" ],
+    "titles" : [ "Pyxites (river)" ],
+    "names" : [ "Pyxites" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Pyxites", "Pyxites" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 38.023726, 44.568171 ]
+    },
+    "properties" : {
+      "titles" : "Torikos/Pagras Limen/Heptalou Limen",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/825407" ],
+    "titles" : [ "Torikos/Pagras Limen/Heptalou Limen" ],
+    "names" : [ "Torikos", "Pagras Limen", "Heptalou Limen" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Pagras", "Pagras" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 34.2384, 44.51564 ]
+    },
+    "properties" : {
+      "titles" : "Nikita",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/711527" ],
+    "titles" : [ "Nikita" ],
+    "names" : [ "Botanicheskoye", "Никита", "Nikita" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Nikites" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.091144, 41.637244 ]
+    },
+    "properties" : {
+      "titles" : "Salmydessos",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/511404" ],
+    "titles" : [ "Salmydessos" ],
+    "names" : [ "Salmydessos" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Salmudessos", "Salmudessos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.5, 41.5 ]
+    },
+    "properties" : {
+      "titles" : "Isis (river)",
+      "annotations" : 4
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857173" ],
+    "titles" : [ "Isis (river)" ],
+    "names" : [ "Isis" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Isis", "Isis", "Isis", "Isis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.371612, 45.037564 ]
+    },
+    "properties" : {
+      "titles" : "Theodosia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/854743" ],
+    "titles" : [ "Theodosia" ],
+    "names" : [ "Θεοδοσία", "Theodosia", "Ardabda Heptatheos", "Ardabda", "Theode(...)", "Theudosia" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Theodosia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.6489, 41.1264 ]
+    },
+    "properties" : {
+      "titles" : "Sangarius (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/511406" ],
+    "titles" : [ "Sangarius (river)" ],
+    "names" : [ "Sangarius", "Šaḫirija, Shakhiriya, Šaḫiriya", "Sakarya", "Sakarya Nehri", "Sangarios", "Σαγγάριος", "Sangários" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sangarios" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.041878, 42.049231 ]
+    },
+    "properties" : {
+      "titles" : "Armene",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/844865" ],
+    "titles" : [ "Armene" ],
+    "names" : [ "Armene" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Armene", "Armene" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 40.5, 43.5 ]
+    },
+    "properties" : {
+      "titles" : "Abaskos? (river)",
+      "annotations" : 5
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857007" ],
+    "titles" : [ "Abaskos? (river)" ],
+    "names" : [ "Abaskos" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "abascos", "Abascos", "abascos", "Abascos", "abascos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 38.64154, 40.97427 ]
+    },
+    "properties" : {
+      "titles" : "Zephyrios Pr.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857384" ],
+    "titles" : [ "Zephyrios Pr." ],
+    "names" : [ "Zephyrios Pr." ],
+    "place_types" : [ "cape" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Zefyrios" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.227622, 41.168505 ]
+    },
+    "properties" : {
+      "titles" : "Rhoe",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/511400" ],
+    "titles" : [ "Rhoe" ],
+    "names" : [ "Rhoe" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Roes", "Roes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.238550216667, 41.448462966667 ]
+    },
+    "properties" : {
+      "titles" : "Paphlagonia (region)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/845034" ],
+    "titles" : [ "Paphlagonia (region)" ],
+    "names" : [ "Paphlagonia" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Paflagonia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.64393, 42.55882 ]
+    },
+    "properties" : {
+      "titles" : "Pomorie",
+      "annotations" : 2
+    },
+    "uris" : [ "http://sws.geonames.org/728108" ],
+    "titles" : [ "Pomorie" ],
+    "names" : [ "Ahiolo", "Pomorye", "Anchialos", "Pomoriye", "Anchijelo", "Anhialo", "Akhilu", "Ankhialo", "Ankhelú", "Akhillo", "Ankhiolo", "Anhiolo", "Akhiolo", "Anchilejo", "Anchialo", "Поморие", "Pomorie", "Pomorié", "Αγχίαλος", "ポモリエ", "波摩萊" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Angíalo", "Angíalo" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.481785, 41.346777 ]
+    },
+    "properties" : {
+      "titles" : "Metroon/Aulia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/845017" ],
+    "titles" : [ "Metroon/Aulia" ],
+    "names" : [ "Metroon", "Aulia" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Metron" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.75, 41.25 ]
+    },
+    "properties" : {
+      "titles" : "Artanes (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/511162" ],
+    "titles" : [ "Artanes (river)" ],
+    "names" : [ "Artanes" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Artanes", "Artanes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 40.039388, 40.942435 ]
+    },
+    "properties" : {
+      "titles" : "Psoron Limen/Hyssos/Sousarmia/Sousourmena/‘Ysiporto’",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857291" ],
+    "titles" : [ "Psoron Limen/Hyssos/Sousarmia/Sousourmena/‘Ysiporto’" ],
+    "names" : [ "Psoron Limen", "Hyssos", "Sousarmia", "Sousourmena", "Ysiporto" ],
+    "place_types" : [ "station" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Issos", "Issos", "Issos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.61, 43.53831 ]
+    },
+    "properties" : {
+      "titles" : "Karon Limen?",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/216860" ],
+    "titles" : [ "Karon Limen?" ],
+    "names" : [ "Karon Limen" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Caron", "Caron" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.9295291, 41.6767598 ]
+    },
+    "properties" : {
+      "titles" : "Halys (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857148" ],
+    "titles" : [ "Halys (river)" ],
+    "names" : [ "Halys", "Maraššant(ij)a, Maraššantija, Maraššanta, Marashantiya, Marashanta, Maraššantiya", "Ḳızıl Irmaḳ, Qizil Irmaq, Kizil Irmak", "Kizilirmak", "Halys, Alys", "Nahr Ālis, Nahr Alis", "Kizil Irmak", "Kızılırmak, Kizilirmak, Kızıl Irmak, Kizil Irmak, Kisil Irmak, Kizzel Irmak" ],
+    "place_types" : [ "settlement", "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Halis", "Halis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 40.5, 40.5 ]
+    },
+    "properties" : {
+      "titles" : "Kalos (river)",
+      "annotations" : 5
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857180" ],
+    "titles" : [ "Kalos (river)" ],
+    "names" : [ "Kalos" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Kalos", "Kalos", "Kalos", "Kalos", "Kalos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 34.94445, 42.09805 ]
+    },
+    "properties" : {
+      "titles" : "Lepte/Syrias Pr.",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/845004" ],
+    "titles" : [ "Lepte/Syrias Pr." ],
+    "names" : [ "Lepte", "Syrias Pr." ],
+    "place_types" : [ "cape" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Leptes", "Leptes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.17202, 42.81645 ]
+    },
+    "properties" : {
+      "titles" : "Astelephos/Euripos (river)",
+      "annotations" : 5
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857049" ],
+    "titles" : [ "Astelephos/Euripos (river)" ],
+    "names" : [ "Astelephos", "Euripos" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Astelefos", "Astelefos", "Astelefos", "Astelefos", "Astelefos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.599106, 44.504795 ]
+    },
+    "properties" : {
+      "titles" : "Symbolon Limen",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/226770" ],
+    "titles" : [ "Symbolon Limen" ],
+    "names" : [ "Symbolon Limen" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Símbolo" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.043942, 41.078024 ]
+    },
+    "properties" : {
+      "titles" : "Chelai/Philemporos",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/520992" ],
+    "titles" : [ "Chelai/Philemporos" ],
+    "names" : [ "Chelai", "Philemporos" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Gelas", "Gelas" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.14885, 42.0206 ]
+    },
+    "properties" : {
+      "titles" : "Sinope",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857321" ],
+    "titles" : [ "Sinope" ],
+    "names" : [ "Σινώπη", "Sinope", "Sinopitis", "Sinob", "Sinop", "Sinopē", "Sinōpē, Sinope", "Sinope", "Ṣīnūb, Sinub", "Colonia Iul. Fel. S., Colonia Iulia Felix Sinope, Colonia Julia Felix Sinope" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sinope", "Sinope", "Sinope" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.158944, 41.810138 ]
+    },
+    "properties" : {
+      "titles" : "Karousa/Polichnion",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857181" ],
+    "titles" : [ "Karousa/Polichnion" ],
+    "names" : [ "Karousa", "Polichnion" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Carousa" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 40.007996945005, 43.386065399091 ]
+    },
+    "properties" : {
+      "titles" : "Bourkas/Borgys? (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857070" ],
+    "titles" : [ "Bourkas/Borgys? (river)" ],
+    "names" : [ "Bourkas", "Borgys", "Mozugos" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Borgus" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.674661, 41.407123 ]
+    },
+    "properties" : {
+      "titles" : "Oxinas",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/845030" ],
+    "titles" : [ "Oxinas" ],
+    "names" : [ "Oxinas" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Oxinas", "Oxinas" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 40.264282, 40.937952 ]
+    },
+    "properties" : {
+      "titles" : "Ophis",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857257" ],
+    "titles" : [ "Ophis" ],
+    "names" : [ "Ophis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Ofis", "Ofis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.163044, 43.409932 ]
+    },
+    "properties" : {
+      "titles" : "Dionysopolis/Krounoi",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/216793" ],
+    "titles" : [ "Dionysopolis/Krounoi" ],
+    "names" : [ "Dionysopolis", "Krounoi" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Dionisópolis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.5, 41.5 ]
+    },
+    "properties" : {
+      "titles" : "Parthenios (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/845036" ],
+    "titles" : [ "Parthenios (river)" ],
+    "names" : [ "Parthenios" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Partenion" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.152269, 43.2215705 ]
+    },
+    "properties" : {
+      "titles" : "Strobilos? M.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857336" ],
+    "titles" : [ "Strobilos? M." ],
+    "names" : [ "Strobilos M." ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Strobilos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.9424975, 41.1939559 ]
+    },
+    "properties" : {
+      "titles" : "Thermodon (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857352" ],
+    "titles" : [ "Thermodon (river)" ],
+    "names" : [ "Thermodon" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Thermodon", "Thermodon" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.5, 41.5 ]
+    },
+    "properties" : {
+      "titles" : "Zydreitai",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857387" ],
+    "titles" : [ "Zydreitai" ],
+    "names" : [ "Zydreitai" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "zudreitas" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.35, 42.016667 ]
+    },
+    "properties" : {
+      "titles" : "Karambis",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/844971" ],
+    "titles" : [ "Karambis" ],
+    "names" : [ "Karambis Pr.", "Kerembe burnu" ],
+    "place_types" : [ "cape" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Carambis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.0181, 42.99535 ]
+    },
+    "properties" : {
+      "titles" : "Dioscurias/Sebastopolis",
+      "annotations" : 4
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857107" ],
+    "titles" : [ "Dioscurias/Sebastopolis" ],
+    "names" : [ "Dioscurias", "Sebastopolis", "Karanitis" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sebastópolis", "Sebastópolis", "Sebastópolis", "Sebastópolis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.46855, 45.350981 ]
+    },
+    "properties" : {
+      "titles" : "Pantikapaion/Bosp(h)orus",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/854719" ],
+    "titles" : [ "Pantikapaion/Bosp(h)orus" ],
+    "names" : [ "Παντικάπαιον", "Pantikapaion", "Bosphorus", "Bosporus", "Kaisareia", "Apollonia", "Apol", "Panticapaeum", "Panticapaeum" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Panticapaion" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.73102, 46.48319 ]
+    },
+    "properties" : {
+      "titles" : "Isiakon Limen",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/226634" ],
+    "titles" : [ "Isiakon Limen" ],
+    "names" : [ "Isiakon Limen" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Isiacos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.4125394, 46.5941693 ]
+    },
+    "properties" : {
+      "titles" : "Borysthenes (island)",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/226545" ],
+    "titles" : [ "Borysthenes (island)" ],
+    "names" : [ "Borysthenes", "Thyora" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Borystenes", "Borystenes", "Borystenes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.6145125, 41.1920125 ]
+    },
+    "properties" : {
+      "titles" : "Billaios (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/844877" ],
+    "titles" : [ "Billaios (river)" ],
+    "names" : [ "Billaios" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Bilaios", "Bilaios" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.484075, 41.779469 ]
+    },
+    "properties" : {
+      "titles" : "Eryth(r)inoi",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/844918" ],
+    "titles" : [ "Eryth(r)inoi" ],
+    "names" : [ "Erythrinoi", "Erythinoi" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Erythinos", "Erythinos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.414722, 41.284722 ]
+    },
+    "properties" : {
+      "titles" : "Heraclea",
+      "annotations" : 6
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/844944" ],
+    "titles" : [ "Heraclea" ],
+    "names" : [ "Heraclea" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Heraclea", "Heraclea", "Heraclea", "Heraclea", "Heraclea", "Heraclea" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.2499999, 40.6666672 ]
+    },
+    "properties" : {
+      "titles" : "Propontis",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/511381" ],
+    "titles" : [ "Propontis" ],
+    "names" : [ "Propontis", "Sea of Marmara" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Propóntide" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 39.5, 40.5 ]
+    },
+    "properties" : {
+      "titles" : "Drilai",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857113" ],
+    "titles" : [ "Drilai" ],
+    "names" : [ "Drilai" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "drilas" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 39.851583, 43.522687 ]
+    },
+    "properties" : {
+      "titles" : "Masaitike",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857228" ],
+    "titles" : [ "Masaitike" ],
+    "names" : [ "Masaitike" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Masaitikes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.89047, 40.97782 ]
+    },
+    "properties" : {
+      "titles" : "Ordu",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/741100" ],
+    "titles" : [ "Ordu" ],
+    "names" : [ "Cotyora", "Ordu", "Ordu", "Ordu", "Орду", "Ordu" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Cotúora" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.0735977, 41.1812426 ]
+    },
+    "properties" : {
+      "titles" : "Hieron (Byzantion)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/521034" ],
+    "titles" : [ "Hieron (Byzantion)" ],
+    "names" : [ "Hieron Byzantion", "Hieron" ],
+    "place_types" : [ "temple" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Bizantio" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.8409485, 41.490647 ]
+    },
+    "properties" : {
+      "titles" : "Krenides",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/844992" ],
+    "titles" : [ "Krenides" ],
+    "names" : [ "Krenides" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Crenidas", "Crenidas" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.5, 40.5 ]
+    },
+    "properties" : {
+      "titles" : "Hypios (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/844950" ],
+    "titles" : [ "Hypios (river)" ],
+    "names" : [ "Hypios" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Hipios", "Hipios" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.23131, 41.373045 ]
+    },
+    "properties" : {
+      "titles" : "Eusene",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857124" ],
+    "titles" : [ "Eusene" ],
+    "names" : [ "Eusene" ],
+    "place_types" : [ "station" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Eusene" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 39.553424, 41.034159 ]
+    },
+    "properties" : {
+      "titles" : "Hermonassa",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857159" ],
+    "titles" : [ "Hermonassa" ],
+    "names" : [ "Hermonassa", "Hermyse" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Hermonasa", "Hermonasa" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 38.5, 46.5 ]
+    },
+    "properties" : {
+      "titles" : "Thateis",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/825404" ],
+    "titles" : [ "Thateis" ],
+    "names" : [ "Thateis", "Thatae", "Toreatai" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Thetis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.776559, 41.057078 ]
+    },
+    "properties" : {
+      "titles" : "Boon",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857067" ],
+    "titles" : [ "Boon" ],
+    "names" : [ "Boon" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Boona", "Boona" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.730787, 42.658743 ]
+    },
+    "properties" : {
+      "titles" : "Mesembria",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/216882" ],
+    "titles" : [ "Mesembria" ],
+    "names" : [ "Mesembria", "Nessebar" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Mesembria", "Mesembria" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.4111, 41.677747 ]
+    },
+    "properties" : {
+      "titles" : "Zagora",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857379" ],
+    "titles" : [ "Zagora" ],
+    "names" : [ "Zagora" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Zagora" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.116602, 41.497628 ]
+    },
+    "properties" : {
+      "titles" : "Naustathmos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857242" ],
+    "titles" : [ "Naustathmos" ],
+    "names" : [ "Naustathmos" ],
+    "place_types" : [ "station" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Naustathmos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.44662, 42.76436 ]
+    },
+    "properties" : {
+      "titles" : "Moches/Tarsouras?/Thersos?/Kyaneos?/Gyenos? (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857236" ],
+    "titles" : [ "Moches/Tarsouras?/Thersos?/Kyaneos?/Gyenos? (river)" ],
+    "names" : [ "Moches", "Tarsouras", "Thersos", "Kyaneos", "Gyenos", "Cyanes", "Tassiros", "Tasbiros" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Tarsuras", "Tarsuras" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 42.5, 42.5 ]
+    },
+    "properties" : {
+      "titles" : "Colchis/Lazike",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/863770" ],
+    "titles" : [ "Colchis/Lazike" ],
+    "names" : [ "Κολχὶς", "Colchis", "Lazike" ],
+    "place_types" : [ "region" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "coljos", "Lazike" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 38.397931, 40.919134 ]
+    },
+    "properties" : {
+      "titles" : "Kerasous/Pharnakeia",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857185" ],
+    "titles" : [ "Kerasous/Pharnakeia" ],
+    "names" : [ "Kerasous", "Pharnakeia", "Ḫarzantī, Kharzanti", "Gerasus, Cerasus", "Kerasous I", "Kerasous", "Giresun", "Giresun", "Pharnakeia", "Kerasount, Keresoun, Kyressoun, Kerason, Kerasounta, Kérasounde, Kerassunde, Kerasunt", "Ḫārzantī" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Farnakeia", "Farnakeia", "Kerasos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.50139, 41.02778 ]
+    },
+    "properties" : {
+      "titles" : "Fatsa",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/747155" ],
+    "titles" : [ "Fatsa" ],
+    "names" : [ "Polemonium", "Fatza", "Phadısana", "Fatisa", "Side", "Fatseh", "Fatsa", "Фатса", "Fatsa" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Polemonios" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 42.4378759, 43.3525468 ]
+    },
+    "properties" : {
+      "titles" : "Caucasus (mountain range)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/863766" ],
+    "titles" : [ "Caucasus (mountain range)" ],
+    "names" : [ "Caucasus", "Caucasus M." ],
+    "place_types" : [ "mountain" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Cáucaso" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.189074, 41.958253 ]
+    },
+    "properties" : {
+      "titles" : "Thymena/Teuthrania?",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/845079" ],
+    "titles" : [ "Thymena/Teuthrania?" ],
+    "names" : [ "Thymena", "Teuthrania" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Thumena" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.902600915935, 46.69272683405 ]
+    },
+    "properties" : {
+      "titles" : "Olbia Theatre - Olbia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://dare.ht.lu.se/places/24854" ],
+    "titles" : [ "Olbia Theatre - Olbia" ],
+    "names" : [ "Olbia Theatre - Olbia" ],
+    "source_gazetteers" : [ "dare-20180219" ],
+    "quotes" : [ "Olbia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.5, 41.5 ]
+    },
+    "properties" : {
+      "titles" : "Akinases (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857017" ],
+    "titles" : [ "Akinases (river)" ],
+    "names" : [ "Akinases" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Akinases" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 40.5, 40.5 ]
+    },
+    "properties" : {
+      "titles" : "Prytanis (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857290" ],
+    "titles" : [ "Prytanis (river)" ],
+    "names" : [ "Prytanis" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Prítanis", "Prítanis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.73262, 46.47747 ]
+    },
+    "properties" : {
+      "titles" : "Odessa",
+      "annotations" : 4
+    },
+    "uris" : [ "http://sws.geonames.org/698740" ],
+    "titles" : [ "Odessa" ],
+    "names" : [ "Odessa", "Odessa", "Odesa", "Odesa", "Odessa", "Odessa", "オデッサ", "Odesa", "Одесса", "Οδησσός", "أوديسا", "敖德薩", "Odessa" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Odesso", "Odesso", "Odesso", "Odesso" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 39.728451, 41.005877 ]
+    },
+    "properties" : {
+      "titles" : "Trapezus",
+      "annotations" : 9
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857359" ],
+    "titles" : [ "Trapezus" ],
+    "names" : [ "Trapezus", "Trapezousia", "Trebizond, Trapezund, Tribisonde", "Ṭırabzon, Tirabzon", "Aṭrabazunda, Atrabazunda, Atrabizund, Trabizonta", "Aṭrābizund", "Trapezount", "Τραπεζοῦς", "Trapezous", "Trapezous", "I Pontica garrison", "Ṭrabzon, Trabzon, Tara Bozan", "Ṭrabīzonṭā", "Trapezoús, Trapezous", "Trapizoni, T'rap'izoni", "Trapizon", "Trabzon, Trapezunt", "Trapezunt", "Aṭrabızund" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Trapezunte", "Trapezunte", "Trapezunte", "Trapezunte", "Trapezunte", "Trapezunte", "Trapezunte", "Trapezunte", "Trapezunte" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.5, 41.5 ]
+    },
+    "properties" : {
+      "titles" : "Thoaris (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857355" ],
+    "titles" : [ "Thoaris (river)" ],
+    "names" : [ "Thoaris" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Thoaris", "Thoaris" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 31.171128, 39.686107 ]
+    },
+    "properties" : {
+      "titles" : "Potamos, T.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/609509" ],
+    "titles" : [ "Potamos, T." ],
+    "names" : [ "Potamos, T." ],
+    "place_types" : [ "temple-2" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Potamos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.58516, 43.81307 ]
+    },
+    "properties" : {
+      "titles" : "Callatis",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/216744" ],
+    "titles" : [ "Callatis" ],
+    "names" : [ "Callatis" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Kalatin" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.81359, 42.04357 ]
+    },
+    "properties" : {
+      "titles" : "Mogros/Nigrus (river)",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857237" ],
+    "titles" : [ "Mogros/Nigrus (river)" ],
+    "names" : [ "Mogros", "Nigrus" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Mogros", "Mogros", "Mogros" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.75, 45.25 ]
+    },
+    "properties" : {
+      "titles" : "Cimmerius Bosp(h)orus",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/854675" ],
+    "titles" : [ "Cimmerius Bosp(h)orus" ],
+    "names" : [ "Cimmerius Bosphorus", "Cimmerius Bosporus", "Κιμμερικὸς Βόσπορος", "Kimmerikos Bosporos" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Bósporo Cimerio" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 39.33617, 47.268438 ]
+    },
+    "properties" : {
+      "titles" : "Tanais",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/825397" ],
+    "titles" : [ "Tanais" ],
+    "names" : [ "Τάναϊς", "Tanais" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Tánais" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.717213, 42.121777 ]
+    },
+    "properties" : {
+      "titles" : "Phasis",
+      "annotations" : 8
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857275" ],
+    "titles" : [ "Phasis" ],
+    "names" : [ "Phasis", "Phasianoi" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Fasis", "Fasis", "Fasis", "Fasis", "Fasis", "Fasis", "Fasis", "Fasis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.85803, 41.85942 ]
+    },
+    "properties" : {
+      "titles" : "Kytoros",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/844997" ],
+    "titles" : [ "Kytoros" ],
+    "names" : [ "Kytoros" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Kitoros", "Kitoros", "Kitoros" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.5, 41.5 ]
+    },
+    "properties" : {
+      "titles" : "Beris (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857062" ],
+    "titles" : [ "Beris (river)" ],
+    "names" : [ "Beris", "Miliçsuyu", "Miliçsuyu" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Beris" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.75, 40.25 ]
+    },
+    "properties" : {
+      "titles" : "Phrygia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/511362" ],
+    "titles" : [ "Phrygia" ],
+    "names" : [ "Phrygia" ],
+    "place_types" : [ "labeled feature" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Frigia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.530278, 41.020013 ]
+    },
+    "properties" : {
+      "titles" : "Phabda/Phadisane",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857269" ],
+    "titles" : [ "Phabda/Phadisane" ],
+    "names" : [ "Phabda", "Phadisane" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Fadisane" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.5, 40.5 ]
+    },
+    "properties" : {
+      "titles" : "Melanthios (river)",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857232" ],
+    "titles" : [ "Melanthios (river)" ],
+    "names" : [ "Melanthios" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Melantio" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.3098052, 44.8959745 ]
+    },
+    "properties" : {
+      "titles" : "Gorgippia/Sindikos Limen",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/825265" ],
+    "titles" : [ "Gorgippia/Sindikos Limen" ],
+    "names" : [ "Gorgippia", "Σινδικὸς λιμήν", "Sindikos Limen" ],
+    "place_types" : [ "settlement", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Sindiké", "Sindiké" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 34.568378, 37.817319 ]
+    },
+    "properties" : {
+      "titles" : "Tyana/Col. Aurelia Antoniniana",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/648801" ],
+    "titles" : [ "Tyana/Col. Aurelia Antoniniana" ],
+    "names" : [ "Τύανα", "Tyana", "Col. Aurelia Antoniniana", "Tyanitis", "Tuwāna", "Ṭuwāna, Tuwana", "Colonia Ant. T., Colonia Antoniniana Tyana", "Ziga Kaplıcası, Ziga Kaplicasi", "Kemerhisar", "Tyana, Tyanna", "Truḫana", "Dana", "Dana", "al-Kanāʾis, al-Kana'is, el-Kana'is, al-Kanais, el-Kanais", "Ṭavāna, Tavana", "Tuḫana, Tukhana", "Tuḫana, Tukhana", "Eusebeia", "Eusebeia am Tauros, Eusebeia at the Tauros", "Tuwannuwa, Tuwanuwa", "Tuwanuwa" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Tyana" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 40.614130814573, 43.178063162201 ]
+    },
+    "properties" : {
+      "titles" : "Sanigai",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857302" ],
+    "titles" : [ "Sanigai" ],
+    "names" : [ "Sanigai", "Saginai" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "sanigas", "sanigas" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 40.5, 40.5 ]
+    },
+    "properties" : {
+      "titles" : "Psychros (river)",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857292" ],
+    "titles" : [ "Psychros (river)" ],
+    "names" : [ "Psychros" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Psicros", "Psicros", "Psicros" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.5, 45.5 ]
+    },
+    "properties" : {
+      "titles" : "Tamyrakes Kolpos",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/226775" ],
+    "titles" : [ "Tamyrakes Kolpos" ],
+    "names" : [ "Tamyrakes Kolpos" ],
+    "place_types" : [ "water-open" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Tamurakes", "Tamurakes" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.5, 43.5 ]
+    },
+    "properties" : {
+      "titles" : "Apsilia",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857034" ],
+    "titles" : [ "Apsilia" ],
+    "names" : [ "Apsilia", "Apsilai" ],
+    "place_types" : [ "people" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "apsilas", "apsilas" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.7282708, 41.117047 ]
+    },
+    "properties" : {
+      "titles" : "Kilikon Nesos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857187" ],
+    "titles" : [ "Kilikon Nesos" ],
+    "names" : [ "Kilikon Nesos" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Kilikon" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 40.5770805, 41.0214685 ]
+    },
+    "properties" : {
+      "titles" : "Askouros (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857047" ],
+    "titles" : [ "Askouros (river)" ],
+    "names" : [ "Askouros" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Askuros", "Askuros" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.33128, 41.292782 ]
+    },
+    "properties" : {
+      "titles" : "Amisus/Peiraieus",
+      "annotations" : 3
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857024" ],
+    "titles" : [ "Amisus/Peiraieus" ],
+    "names" : [ "Amisus", "Peiraieus", "Ṣamṣūn", "Samsun", "Samsūn, Samsun", "Samsun", "Ṣamsun, Samsun", "Amisos" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Amisos", "Amisos", "Amisos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 38.43667, 40.92935 ]
+    },
+    "properties" : {
+      "titles" : "Aretias/Areonesos Ins.",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857042" ],
+    "titles" : [ "Aretias/Areonesos Ins." ],
+    "names" : [ "Aretias", "Areonesos" ],
+    "place_types" : [ "island" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Aretiada" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.5, 45.5 ]
+    },
+    "properties" : {
+      "titles" : "Karkinitis Kolpos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/226654" ],
+    "titles" : [ "Karkinitis Kolpos" ],
+    "names" : [ "Karkinitis Kolpos" ],
+    "place_types" : [ "unknown" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Kerkinites" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 39.924011552107, 43.415712875466 ]
+    },
+    "properties" : {
+      "titles" : "Nesis? (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857246" ],
+    "titles" : [ "Nesis? (river)" ],
+    "names" : [ "Nesis" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Nesis", "Nesis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 41.7156362, 40.8877953 ]
+    },
+    "properties" : {
+      "titles" : "Akampsis (river)",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857015" ],
+    "titles" : [ "Akampsis (river)" ],
+    "names" : [ "Akampsis", "Acampseon", "Acampseon" ],
+    "place_types" : [ "river" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Acampsis", "Acampsis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 40.497928, 41.03206 ]
+    },
+    "properties" : {
+      "titles" : "Rhizaion",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/857297" ],
+    "titles" : [ "Rhizaion" ],
+    "names" : [ "Rhizaion", "Rize", "Rize", "Rhizaion" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Rizios" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 28.027453, 41.889787 ]
+    },
+    "properties" : {
+      "titles" : "Thynias",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/511444" ],
+    "titles" : [ "Thynias" ],
+    "names" : [ "Thynias" ],
+    "place_types" : [ "labeled feature", "settlement", "settlement-modern" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Thunias", "Thunias" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.002438, 41.891894 ]
+    },
+    "properties" : {
+      "titles" : "Aigialos",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/844852" ],
+    "titles" : [ "Aigialos" ],
+    "names" : [ "Aigialos" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Aigíalo" ]
+  } ]
+}
